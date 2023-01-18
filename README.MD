@@ -1,50 +1,9 @@
-<h1 align="center">
-  Hi, I'm 👋
-</h1>
+# INTEGRACION DE VARIOS SOFTWARE DE MANAGMENT EN CODIGO APPSCRIPT DE SPREADSHEETS, RESULTADON EN UNA BASE DE DATOS PROPIA, NORMALIZADA Y LISTA PARA UTLIZARLA CON R  
 
-### jdsakljdsal
-dssda
+> Esta es la manera que encontre de poder responder a la pregunta del millon, "cuanto estimas que te lleve ese trabajo?", de esta manera si registro mis actividades y luego utilizo estadistica para conseguir un estimado de cuanto me llearia realizar esa misma tarea de acuerdo a mis registros pasados. Algo tan simple que necesitaba una integracion final porque hacerlo a mano es un dolor de cabeza ademas de que no existe rigorosidad cientifica.
 
-dsa
-da
+El tema se puede divir en tres partes, osea la maquina, el humano, y las estadisticas. La maquina es estaintegracion de varios aplicaicones de manejo del tiempo. todos juntas crean un patron de registro de actividades y ademas llevan registro graficos de forma atomica de cada proyecto y habilidad que estemos trackeando. El humano es esta persona a la que se le esta leyendo eltiempo, el protagonista de esta metodologia puesto que todos queremos saber como son sus resultados y capaz comparar sus diferente productividad a lo largo del tiempo, analiando que circustancias o eventos hacen que este humano aproveche mejor su tiempo o no. Entonces capaz un diario y un habito de registrar sus actividad es todo lo que necesita. Osea utilizar la maquina no se puede hacer sola, debe que comprometerse a apretar algunos botones y ademas en pos de la ciencia se debe llevar un registro mas simplicficado de cada dia para tener una comparacion a lo largo del tiempo de la mquina con el control. complmentandose con informacion donde entra la tercera parte que son los resultados estadisticos del controlde tiempo de ese humano. la verdad de como progrsas sus habilidades como se utilizan.
 
-# titulo 1
+Para lograr esta simbiosis yu obtener los mejores resultados estadisticos cree un habito de 5 pasos, el tiempo en las actividades de este habito nosuman mas de 20 minutos al dia como maximo, puesto que el objetivo principal es obtner buenos datos se trackean dos aspectos del humano, primero estan los proyectos y luego las habilidades. Es asi que no es una herramienta de planificacion sno de seguimiento de nuestra practica deliberada. La practica deliberada es lo hacemos cuando repetimos una tecnica hasta perfeccionarla. Al registra esta practica estamos dejando un mensaje para nuestro futuro donde podesmos consultar nuestra tecnica si es que queremos volver a aprenderla. Por otro lado los proyectos nos permiten saber que habilidaes y que pasos son necesarios para completar un proyecto. Lo cual sirve como un seguimiento de un proyecto pero no su misma planificacion.
 
-
-[DSADSAKJDSAKJHDJSADJSAHDHSA](DSADSADSADSA)
-
-> DSALKJDSAKJ DSAJKDSA  [jdsaj](ww.www.www)
-
-EYEAHYEAH | REZEN | ACUMULADOS
----------|----------|---------
- 122121 | B1313211 | C1313131
- A23131 | B31331221313122 | C3131312
- A3113313 | 31313113B3 | 313131C3
-
-Lorem occaecat est excepteur duis culpa aliquip. Culpa est eu sint quis aliquip minim enim. Amet ullamco nulla nisi excepteur.
-
-Voluptate irure nisi ut sint nulla officia id fugiat do magna incididunt aliquip. Eu do ex esse et in anim in magna Lorem aute sint occaecat qui ullamco. Aliquip qui ut veniam commodo duis anim deserunt pariatur sint aute exercitation sit anim. Cillum anim minim sunt commodo elit sit quis ad laborum aute dolore.s Cillum cillum aliqua voluptate ullamco cupidatat sit fugiat fugiat aliquip cupidatat eu labore. Dolor sit laborum eiusmod do culpa est amet nulla quis reprehenderit incididunt Lorem reprehenderit adipisicing. Labore ipsum laboris nostrud incididunt deserunt proident irure enim elit officia officia nisi esse.
-
-Sint Lorem magna sint fugiat. Lorem do non ipsum cillum nisi quis exercitation do nisi anim occaecat commodo. Consectetur ad sunt in elit. Sit eu nostrud dolore duis officia esse ullamco cupidatat nisi duis. Pariatur reprehenderit ea est sint eiusmod et pariatur proident minim sint laboris.
-
-#### subtitulos
-
-eeExcepteur pariatur cillum incididunt ullamco. Culpa aliqua proident cupidatat incididunt sunt ullamco eu sunt consequat laborum. Cillum quis nostrud qui eu cupidatat labore. Adipisicing id fugiat proident cupidatat fugiat ullamco veniam deserunt. Do aliquip et esse dolor et enim dolor quis occaecat sit. Laboris quis esse veniam non do.
-Tempor occaecat nisi nisi aliqua tempor do cupidatat quis id. Ut eu cillum elit aliquip ut. Qui deserunt elit sunt exercitation incididunt ex. Laboris sint ut culpa sint do cillum.
-
-## titulo 2
-
-Excepteur labore sit voluptate labore est ea ut aute officia sint consequat quis amet sunt. Tempor culpa consectetur elit proident mollit pariatur officia incididunt do cupidatat cupidatat culpa culpa eu. Labore aliqua ullamco aliqua exercitation laboris ullamco eiusmod ullamco aliqua amet enim Lorem Lorem ullamco. Cillum minim cillum esse commodo eiusmod minim adipisicing incididunt veniam et et. Magna dolore qui ex sint consequat voluptate laboris fugiat quis. Anim id fugiat Lorem exercitation ullamco.
-
-Dolore veniam fugiat proident laboris in voluptate velit nostrud nisi. Occaecat dolor sit quis ullamco esse velit sit tempor. Tempor exercitation consectetur cillum est ipsum mollit sunt ea magna exercitation. Et duis amet commodo ipsum nostrud ullamco.dsds
-
-#### subtitotulos 2
-
-Velit duis excepteur ut esse enim. Lorem velit reprehenderit Lorem adipisicing anim Lorem anim. Proident labore incididunt exercitation anim occaecat. Excepteur cillum ea pariatur reprehenderit consequat labore et ad pariatur sunt est eiusmod consequat est. Ipsum ipsum nulla pariatur incididunt do ut et. Tempor laboris eu cillum id ad qui aliquip minim quis anim est tempor. Pariatur laborum dolore elit quis labore nisi dolor.
-
-Excepteur enim ipsum tempor irure nisi nisi incididunt amet aute laboris aute. Velit Lorem officia commodo cillum et. Ipsum dolore labore reprehenderit fugiat nulla ut. Officia sit incididunt ullamco culpa consectetur in ipsum eiusmod culpa aute elit in dolor. Exercitation non velit ad magna veniam cupidatat ut est velit sint anim excepteur nisi occaecat.
-
-Anim pariatur quis quis in amet labore. Adipisicing ad veniam in nulla dolore eu et excepteur anim voluptate incididunt anim commodo voluptate. Officia est tempor ullamco eu aliqua. Tempor ea deserunt sunt incididunt sint cupidatat. Qui elit do elit est labore ullamco eu.
-
-Ad ullamco nostrud reprehenderit mollit anim elit pariatur. Proident in esse consequat fugiat dolor deserunt. Enim aliquip fugiat sunt magna proident consequat minim do laborum est dolore officia enim laborum. Pariatur duis nisi quis adipisicing consequat minim consectetur aute adipisicing tempor ex incididunt ut. Sunt anim magna ad non non aute consectetur sunt Lorem irure mollit.
-hjhjhjjhhjhjhjhjjjhj
+Por ultimo la persona que desea registrar sus practicas deliberadas en ciertas habilidades de ciertos proyectos. debe llevar un diario donde complemente la informacion del contexto de este proyecto. es decir brindar informacion del dia a dia del sujeto con datos muy apartes del proyecto, como puede ser su animo, sus comidass, si realizo su limpieza, sus ejercicios u sus visitas de amigos y familirias. Esto nos brinda ese toque humano posicologico que puede afectar al ritmo de nuestras practicas. no es lo mismo practicar todos los dias que solo de vez encuando. Todo esto queda registra en el quinto paso de forma automica gracias a la integracion pero tambien gracias a llenar los complemtos en el calendario de google. teniendo asi un completo segguimiento de nuestro dia apenas terminar el dia. y por otro lado los datos normalizados en spreadsheets con la informacion de cada app en un solo row
