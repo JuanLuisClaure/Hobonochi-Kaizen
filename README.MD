@@ -12,218 +12,56 @@ Por ultimo la persona que desea registrar sus practicas deliberadas en ciertas h
 
 1. __GUIA ESCRITA__
    1. _ES EQUIVALENTE A TODO LIST_
-      1. __seguimiento de creacion__
+      1. __draft de nuevas ideas__
          1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
+         2. _tambien es donde pones las cosas en orden de nombres asi en one note y googple keep de tal manera de poder ir alli a consultar todo_
       2. __index mindmap__
          1. _es como un todo list pero en este caso se asemeja a un libro o a una historia por contar_
          2. _se escribe de forma creciente es decir se empieza por dos niveles a nivel draft que contengan el camino el ritmo y dos niveles siguientes que se conectac por tecnicas y storyborads_
-   2. _ES EL PROYECTO EN PAPEL_
+   2. _ES EL PROYECTO EN ESCRITO OSEA LA GUIA O EL MANUAL_
       1. __seguimiento de creacion__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __draft de nuevas ideas__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   3. _SU HABILIDAD ES LA ADMINISTRACION_
-      1. __pensar en un plan__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __ponerse a organizar__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   4. _MARKDOWN_
-      1. __leer sobre el tema__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   5. _GITHUB_
-      1. __manejar redes sociales__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   6. _ONENOTE_
-      1. __draft de nuevas ideas__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __index mindmap__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   7. _GOOGLE KEEP_
-      1. __encontrar info en google__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __pensar en un plan__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   8. _TERMINA SIENDO EL MANUAL_
-      1. __seuimiento de creacion__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   9. _Y LA BIBLIOGRAFIA DEL DRAFT_
-      1. __ponerse a organizar__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
+         1. _Utilizando el index podemos ir describiendo los que vamos haciendo como un manual asi para informar el orden de los pensamientos y el porque de las cosas ademas del como que en suconjunto se refieren al que_
+         2. _Se utiliza con el markdown osea que se debe aprender a escribir en markdon_
+      2. __diario de experiencias__
+         1. _se escribe de igual manera pero identificano la fecha y el lugar de la exxperiencia para enlazar una experiencia con el desarrollo de una hbailidad_
+         2. _Se utiliza el github como herramienta de historial_
 2. __TECNICAS APRENDIDAS__
    1. _UNA METODOLOGIA PARA DEJAR RECORD DE CADA TECNICA USADA_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
+      1. __organizar practiaca deliberada__
+         1. _definir tus hablidades en cada board y agregar templates cards con tus tecnicas utilizadas_
+         2. _descubre tus habilidades de forma general como dibujo puede tener tecnicas de dise;o de igual manera cocinar sirve como habilidad de panes de pasts y demas o fuerza fisica_
    2. _CADA TECNICA CUENTA CON TRES CHECKLIST_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   3. _SI SE CUMPLEN ES UNA TECNICA RECOMENDADA_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   4. _TAMBIEN ES CENTRO DE APRENDIZAJE PARA OTRAS TECNICAS_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   5. _COMO EL SEGUIMIENTO A LA PERFECCION DE UNA SOLA TECNICA_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   6. _TRELLO TARJETAS TEMPLATE_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   7. _TRELLO BORASD DE HABILIDADES_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   8. _TRELLO ES PROYECTO O ACCION_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   9. _EMPAREJA CADA HABILIDAD CON LOS PROYECTOS O ACCIONES_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   10. _DANDO UNA JERARQUIA DE ORDEN DE MACRO A MICRO_
-       1. __dsadsad__
-           1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-           2. _tambien es donde pones las cosas en orden de nombres_
-       2. __dsadsad__
-           1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-           2. _tambien es donde pones las cosas en orden de nombres_
+      1. __organizar practiaca deliberada__
+         1. _cada carta template teiene su particularidad como una descripcion que debe descriibr en pasos como una receta como hacer todo igual del porque de la tecnica_
+         2. _esto significa tener tres checjlist bien importanes que todas templates comparten como estructura para que la emetodologi funicones_
+   3. _EMPAREJA CADA HABILIDAD CON LOS PROYECTOS O ACCIONES_
+      1. __organizar practiaca deliberada__
+         1. _Cada proyecto es una fila en el borad y contine sus cartas todas siguiendo un orden que nos ayuda a tener mejores metricas al final_
+         2. _otros nombres y variantes que se puden utilizar para dar contexto son permitidiso este tipo de escritura mientras se mantenga las partes esenciales como el numero y la tecnica general_
 3. __TRACK DEL TIEMPO__
-   1. _TRAKEA EL TIEMPO DE PROYECTOS/HABILIDADES_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   2. _ORDENA HABILIDADES CON PROYECTAS/HABILIDADES_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   3. _TOGGLE COMO HERRAMIENTA_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   4. _ES LA METODOLOGIA PARA TRAKEAR EVENTOS DE MINUTOS_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   5. _ENLAZADOS CON UN MACRO PROYECTO MAYOR_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
+   1. _TRAKEA EL TIEMPO DE PROYECTOS Y LAS HABILIDADES QUE SE USARON_
+      1. __organizar practiaca deliberada__
+         1. _el tiempo esta organizado igual por clientes y proyectos, los clietens son habilidades_
+         2. _puedes personalizar aun mas tu track con un app y debe acomodarse a tu rutina_
+   2. _ORDENA HABILIDADES CON PROYECTAS/HABILIDADES CON TAGS_
+      1. __organizar practiaca deliberadas__
+         1. _igualmente se puede haerseguimiento de tus tecnicas con detalles despues del nombre, el cual debe estar escrito con el numero y el titulo delprimer checklist qe se esta realizando_
+         2. _y los tags pueden reuinirse en peque;as tareas para realizar la tecnica, es decir mas datos para el final con resultados mas aproximados o mejor ensacion de prediccion_
 4. __DIARIO PERSONAL__
-   1. _ES UNA COPIA DE BULLET DIARY_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
+   1. _ES UNA GUI DE TU ESPIRTU DIARIO_
+      1. __ejecutando control diario__
          1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
          2. _tambien es donde pones las cosas en orden de nombres_
    2. _ES UNA COPIA DE HOBONOCHI_
       1. __dsadsad__
          1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
          2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   3. _ES UNA METODOLOGIA ORIGINAL DE HABITOS_
+   3. _ES UNA COPIA DE BULLET DIARY_
       1. __dsadsad__
          1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
          2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   4. _ES UN CONTROL EXTERNO AL CODIGO_
+   4. _ES UNA METODOLOGIA ORIGINAL DE HABITOS_
       1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   5. _DIARIO HOBONOCHI_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   6. _BULLET DESING_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   7. _ES UNA HABITO RELAJANTE_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   8. _ES UNA GUI DE TU ESPIRTU DIARIO_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
          1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
          2. _tambien es donde pones las cosas en orden de nombres_
 5. __CALENDARIO LLENO__
