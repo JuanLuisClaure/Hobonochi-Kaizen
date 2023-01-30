@@ -12,10 +12,10 @@ Por ultimo la persona que desea registrar sus practicas deliberadas en ciertas h
 
 1. __GUIA ESCRITA__
    1. _ES EQUIVALENTE A TODO LIST_
-      1. __draft de nuevas ideas__
+      1. __plan con ideas draft__
          1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
          2. _tambien es donde pones las cosas en orden de nombres asi en one note y googple keep de tal manera de poder ir alli a consultar todo_
-      2. __index mindmap__
+      2. __plan con index mindmap__
          1. _es como un todo list pero en este caso se asemeja a un libro o a una historia por contar_
          2. _se escribe de forma creciente es decir se empieza por dos niveles a nivel draft que contengan el camino el ritmo y dos niveles siguientes que se conectac por tecnicas y storyborads_
    2. _ES EL PROYECTO EN ESCRITO OSEA LA GUIA O EL MANUAL_
@@ -49,75 +49,19 @@ Por ultimo la persona que desea registrar sus practicas deliberadas en ciertas h
          2. _y los tags pueden reuinirse en peque;as tareas para realizar la tecnica, es decir mas datos para el final con resultados mas aproximados o mejor ensacion de prediccion_
 4. __DIARIO PERSONAL__
    1. _ES UNA GUI DE TU ESPIRTU DIARIO_
-      1. __ejecutando control diario__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
+      1. __controles de ejecucion diaria__
+         1. _tener tu libro solo es para tener anotado tu rutina omplementandotus habilidades la vida es mas qe solo habiliadeds aveces suceden cosas y eso se debe tener un lugar donde registrar_
+         2. _tambien esta la manilla de anotacionrapidas para tomar notas de tiempo como cronometros hya todo un set up que debe tener uno mismo_
    2. _ES UNA COPIA DE HOBONOCHI_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
+      1. __controles de ejecucion diaria__
+         1. _tus habitos pueden ser como los checkpoint de tu di cuando los identificas podes tomar track de ellos aveces es solo un dato como un numero_
    3. _ES UNA COPIA DE BULLET DIARY_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
+      1. __controles de ejecucion diaria__
+         1. _las paginas estan divididas por semana y tenes task que cumplir como el bullet journal pero ada que eso apaz un calendario y e stodo blanco y metodico nada de libre expresion es un control_
    4. _ES UNA METODOLOGIA ORIGINAL DE HABITOS_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
+      1. __controles de ejecucion diaria__
+         1. _puede agregar lo que veas neecsario siempre cumpliendo las regas pero agregando tu personalidad a la fomra de tomar datos ademas de los trazos en tu diario de a manera de crear una habito como puede ser la hora de levantarse peusto que debes anotarlo todos los dias y ver despues tu ejecucion_
 5. __CALENDARIO LLENO__
    1. _GOOGLE CALENDAR DONDE SE VISUALIZA_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   2. _GOOGLE SHEET BASE DA DATOS NORMALIZADOS_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   3. _APP DE ESTADISTICAS WEB_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   4. _INTEGRA TODO A NIVEL GOOGLE DRIVE_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   5. _MUESRTA EN GOOGLE CALENDAR Y TASK_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   6. _DEJA BASE DE DATOS PARA ESTADISTICAS_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   7. _ESTE REGISTRO CON EL TIEMPO NOS CUENTA EN GASTOS EL TIEMPO_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-   8. _TAMBIEN LAS TECNICAS DE TUS PRACTICAS DELIBERADAS_
-      1. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
-      2. __dsadsad__
-         1. _tiene que tener un lugar donde ir escribiendo lo que vas haciendo_
-         2. _tambien es donde pones las cosas en orden de nombres_
+      1. __controles de ejecucion diaria__
+         1. _algunas sugerencias a la hora de acomodar tu calenadrio ademas de poner los task de tu rutina diaria solo que aveces hay qe agregar las actividades del diario y otras veces debemso agregar detalles a los task cumplidos cada mes, esta seria la foram de virtualizar el diario_
