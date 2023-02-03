@@ -68,20 +68,24 @@ Por ultimo la persona que desea registrar sus practicas deliberadas en ciertas h
 6. __SEGUNDA VUELTA__
    1. _AHORA AGREGAMOS UNA HABILIDAD NUEVA_
       1. __FUERZA FISICA: TODO SOBRE EJERCICIOS__
-         1. _queramos aprender_
-         2. _D_
-         3. _D_
-         4. _D_
+         1. _pose de la moonta;a creo qe selllama_
+         2. _luego viene de la monta;a pero saludando el cielo_
+         3. _depsues viene la de dejarse caer todo abajo con cabeza al suelo_
+         4. _despues viene la misma todo abajo pero levantando cabza lo maximo a frente_
+         5. _despues esta salto atras y cobra o perro cabeza arriba_
+         6. _ahora levantamos cola y perro cabeza abajo_
+         7. _del saludo b esta es la sentadatilla que nombre tendra_
+         8. _y del salubo b esta es lapose del guerrero_
    2. _OTRA HABILIDAD PARA DISTINGUIRSE DE LAS DEMAS COMO OPUESTA_
       1. __ESTUDIAR: Y TODAS LAS TECNICAS QE CORRESPONDEN__
-         1. _dueramos aprender_
-         2. _dueramos aprender_
-         3. _dueramos aprender_
-         4. _dueramos aprender_
-         5. _dueramos aprender_
-         6. _dueramos aprender_
-         7. _dueramos aprender_
-         8. _dueramos aprender_
+         1. _cuando vemos videos de algo que queremos qprender_
+         2. _cuando leemos un blog de algo queramos aprender_
+         3. _cuando leermos un libro corto de algo queramos aprender_
+         4. _cuando leemos un libro largo de algo dueramos aprender_
+         5. _cuando hacemos un get started de algo dueramos aprender_
+         6. _cuando seguimos un tutorial pasos a pasos de algo dueramos aprender_
+         7. _cuando fallamos en una tecnica hasta aprender_
+         8. _cuando buscamos y filtramos links de internet que posiblemente ense;en algo_
 7. __INCLUYENDO MI TRABAJO__
    1. _SIEMPRE ME GUSTO TRABJAR DESDE LA COMPU_
       1. __DATA SCIENCE ES LO QUE BUSCO SER__
