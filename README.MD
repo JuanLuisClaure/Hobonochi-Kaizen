@@ -65,3 +65,64 @@ Por ultimo la persona que desea registrar sus practicas deliberadas en ciertas h
    1. _GOOGLE CALENDAR DONDE SE VISUALIZA_
       1. __controles de ejecucion diaria__
          1. _algunas sugerencias a la hora de acomodar tu calenadrio ademas de poner los task de tu rutina diaria solo que aveces hay qe agregar las actividades del diario y otras veces debemso agregar detalles a los task cumplidos cada mes, esta seria la foram de virtualizar el diario_
+6. __SEGUNDA VUELTA__
+   1. _AHORA AGREGAMOS UNA HABILIDAD NUEVA_
+      1. __FUERZA FISICA: TODO SOBRE EJERCICIOS__
+         1. _queramos aprender_
+         2. _D_
+         3. _D_
+         4. _D_
+   2. _OTRA HABILIDAD PARA DISTINGUIRSE DE LAS DEMAS COMO OPUESTA_
+      1. __ESTUDIAR: Y TODAS LAS TECNICAS QE CORRESPONDEN__
+         1. _dueramos aprender_
+         2. _dueramos aprender_
+         3. _dueramos aprender_
+         4. _dueramos aprender_
+         5. _dueramos aprender_
+         6. _dueramos aprender_
+         7. _dueramos aprender_
+         8. _dueramos aprender_
+7. __INCLUYENDO MI TRABAJO__
+   1. _SIEMPRE ME GUSTO TRABJAR DESDE LA COMPU_
+      1. __DATA SCIENCE ES LO QUE BUSCO SER__
+         1. _terminar_
+         2. _terminar_
+         3. _terminar_
+         4. _terminar_
+         5. _terminar_
+   2. _ESTA VEZ TENEMOS QUE PONERNOS METAS DIARIOS_
+      1. __PROGRAMAR ES LO QUE SE HACER BIEN__
+         1. _checkr_
+         2. _checkr_
+         3. _checkr_
+         4. _checkr_
+         5. _checkr_
+         6. _checkr_
+         7. _checkr_
+         8. _checkr_
+         9. _checkr_
+         10. _checkr_
+         11. _checkr_
+         12. _checkr_
+8. __AHORA LOS DIFICIL LO ARTISTICO__
+   1. _EMPEZANDO CON ALGO QUE NO ES TAN LIBRE_
+      1. __COCINAR EL ARTE DE MEDIR BIEN Y SEGUIR LOS PASOS__
+         1. _terminar_
+         2. _terminar_
+         3. _terminar_
+         4. _terminar_
+         5. _terminar_
+   2. _Y AHORA CON ALGO MAS TECNICO PERO RE LIBRE_
+      1. __DIBUJAR OSEA PINTAR Y EN TODOS SUS MEDIOS__
+         1. _checkr_
+         2. _checkr_
+         3. _checkr_
+         4. _checkr_
+         5. _checkr_
+         6. _checkr_
+         7. _checkr_
+         8. _checkr_
+         9. _checkr_
+         10. _checkr_
+         11. _checkr_
+         12. _checkr_
