@@ -8,9 +8,21 @@ Estos datos cierran tu dia diceindote que hiceste y tu futuro yo te lo agradecer
 
 ## GOOGLE CALENDAR DONDE SE VISUALIZA
 
-### controles de ejecucion diaria
+Si es algo importante la visulizacion por eso es bueno poner
+
+### todo el trabajo lo hace el codigo
+
+Claro que si lomas importante pero 
 
 #### algunas sugerencias a la hora de acomodar tu calenadrio ademas de poner los task de tu rutina diaria solo que aveces hay qe agregar las actividades del diario y otras veces debemso agregar detalles a los task cumplidos cada mes, esta seria la foram de virtualizar el diario
+
+Es importante qe agregues los eventos aparte y eso notiene mas
+
+Conslusoines de agregas eventos parte
+
+Conslusiones de qe lo hace el codigo
+
+Consluisnes de qe es importante la visualizacion
 
 ---
 

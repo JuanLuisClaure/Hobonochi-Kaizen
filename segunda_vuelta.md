@@ -6,6 +6,14 @@ Pongo el ejemplo de alguien que hace mucho deporte entonces sus tecnias las tien
 
 Por otro lado una preosna que sabe muchos de estudios capaz quiere saber mas de fuerza fisica y aprender las tecnicas de forma metodocia entonces tambiens estameotodlogia le ayuda porque todo va de la mno, lo que quieras aprender lo avs a tener qe aplicar y lo qe y sabes lo puedes tracker entonces asi es mejor saber el verdaero pasoa  apso de tus habilideases y por awarnnesss seguir mejorando con el flow.
 
+## ALGO FACIL PRIMERO
+
+### CREAR UN PROYECTO PARA LA SALUD
+
+#### solamente toma rehistro e lo qe pasa
+
+#### es un diario de tu regeneracion
+
 ## AHORA AGREGAMOS UNA HABILIDAD NUEVA
 
 ### FUERZA FISICA: TODO SOBRE EJERCICIOS
@@ -26,7 +34,7 @@ Por otro lado una preosna que sabe muchos de estudios capaz quiere saber mas de 
 
 #### y del salubo b esta es lapose del guerrero
 
-## OTRA HABILIDAD PARA DISTINGUIRSE DE LAS DEMAS COMO OPUESTA
+## OTRA HABILIDAD OPUESTA
 
 ### ESTUDIAR: Y TODAS LAS TECNICAS QE CORRESPONDEN
 
@@ -45,6 +53,50 @@ Por otro lado una preosna que sabe muchos de estudios capaz quiere saber mas de 
 #### cuando fallamos en una tecnica hasta aprender
 
 #### cuando buscamos y filtramos links de internet que posiblemente ense;en algo
+
+## TRACKEA EL TIEPO DIFERENTE
+
+### AVECES SUCEDE SITUACIONES QUE REQUIEREN
+
+#### es como el ejercicio es mejor cornometrar y luego subir el total
+
+#### pero sin perder los datos entonces pueden ir en describcion
+
+## CONOCE TUS HABITOS REALES
+
+### EN TU HK BOOK DEBES REPRESETAR TUS HABITOS
+
+#### esto significa idintificar las acciones qe se pueden tomar datos
+
+#### ademas significa tener la obligacion de hacerlos ilcuyendo no hacerlo
+
+#### es parecido a un x cada dia pero aca lo iportante es identificarlos
+
+#### con el fin de modificarlo a nuestro gusto
+
+## MODIFICA TU CALENDAR TASK
+
+### LO MAS IMPORTANTE ES QUE SABER QE QUIERES DE HABITO
+
+#### lo qe no puedas dejar de hacer con lo qe debes hacer e tu rutina
+
+#### Capaz lo mas imporatnte es qe veas como no la cumples
+
+#### sue;a con lo qe necesitas sin imposibles pero exigiendo
+
+### VISUALIZANDO EN CALENDAR CON TASK
+
+#### claro no te dije qe se iba hacer solo pero es imorante
+
+#### Coloca tu lista en los task por dia de las semna y repitelos
+
+#### toma tiempos q sabes qe vas a cumplir para dar margen a modificar
+
+### UNA NUEVA RUTINA TACHEAR TUS LOGROS Y ANOTRAR
+
+#### cada dia escribis un cometario con el dato esto ira como dato de tu dia
+
+#### cada dia techeas lo qe cumplist inslcu si no cumpliste
 
 ---
 
