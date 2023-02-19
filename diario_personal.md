@@ -12,7 +12,7 @@ claro mira como el lugar mas intimo tuyo
 
 ### como crear un interface para el espiritu
 
-si obvioesta bien 
+si obvioesta bien
 
 #### contar lod dias que vas a practicar
 
@@ -32,21 +32,57 @@ conlsuiones de por es un diario
 
 ## ES UNA COPIA DE HOBONOCHI
 
+aca escribo todo mis logros de la semana tipo desafio pero tipo tomar datos
+
 ### Que es escribir todos los dias
+
+Es escribir todos losd dias mas facil
 
 #### un numero, un dato que ejemlepfica tu dia
 
+si un numero dice mucho en cluster y atributos
+
+Consluisones de etaditicas de cluster y atributso
+
+conslusones de escribir todos los dias
+
+conslusiones de tomar logros semanesles
+
 ## ES UNA COPIA DE BULLET DIARY
+
+Estes si es el que toma noatas en una sola hoja en los eparadores 
 
 ### como planifico sin no tengo plantillas
 
+claro tengo qe tener bullere diary porqe solo es una hoja en blanco
+
 #### el unico objetivo es qe tengas organizado en algun lugar fisico
+
+claro esto es objetivo realizad el lgro
+
+y su conclusion de logros en bulet
+
+conslusiones de hojas en blanco
+
+conslusiones de tomar notasen los separadosres
 
 ## ES UNA METODOLOGIA ORIGINAL DE HABITOS
 
+Claro ahora si biene los deparadosres como algo mas un objetvo mas
+
 ### la personalizacion es esencial
 
+si la personaliacion es encontrar algo de tu espirtu qe queiras lasmar
+
 #### es tu ejecucion es tu manera de hacer las cosas empieza de a poco para poder modificar
+
+Lo primero qe tenes es siempre tu habito y tu todolist
+
+Consluines de tener lo basico
+
+consluones de planar tu esppritu
+
+consloisnes es qe algo personalizado puede sair
 
 ---
 
