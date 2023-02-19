@@ -6,22 +6,54 @@ Esto es por que cada pomodoro dura lo quevos quieras esto tambien puede regulars
 
 En este paso aprenderemos que todo esto es parte ce administrar y organizar tus habilidades y tecnicas ed tal modo de poder practicalas de forma deliberada enteiendo que hace mejor una tecnica descubriendo y simplemente dejando record del tiempo que te toma cada tecnica para tener un estimado de cuanto te llevaria, esto puede sona como un pipe DAG pero es enrelidad otra cosa que no sabemos
 
-## TRAKEA EL TIEMPO DE PROYECTOS Y LAS HABILIDADES QUE SE USARON
+## PREPARA LAS APLICACIONES NECESARIAS
 
-### organizar practiaca deliberada
+Algunas aplicaciones son mejores qe otras pero toggl es toggl y es la qe escogimos por su api
 
-#### el tiempo esta organizado igual por clientes y proyectos, los clietens son habilidades
+### toggl la aplicacion en todos lados
 
-#### puedes personalizar aun mas tu track con un app y debe acomodarse a tu rutina
+Como toggle aplica a esta situacion si se adapata los nombres
 
-## ORDENA HABILIDADES CON PROYECTAS/HABILIDADES CON TAGS
+#### descargar las aplicaciones necesarias
 
-### organizar practiaca deliberadas
+intro de descargar app int
 
-#### igualmente se puede haerseguimiento de tus tecnicas con detalles despues del nombre, el cual debe estar escrito con el numero y el titulo delprimer checklist qe se esta realizando
+Conslusiones de como descar las aps dnecesarias
 
-#### y los tags pueden reuinirse en peque;as tareas para realizar la tecnica, es decir mas datos para el final con resultados mas aproximados o mejor ensacion de prediccion
+#### conocer las configuraciones como pomodoro
+
+Intro de congiugraciones app
+
+Conslsuines de conocer configuraciones
+
+Conslusiones de como toggl es la herramienta
+
+Conslusiones de las aplicaciones necesacioas para guncionar
+
+## ORGANIZA PROYECTOS CON CLIENTES QUE SON HABILIDADES
+
+De esta manera se puede poner los nombres compartiendo con los demas
+
+### los nombres son importantes
+
+Los pricipales campos donde si osi debes entener de los nombres
+
+#### cada proyecto comparte nombre y cada cliente comparte nombre con la habilidad
+
+Intro de como compartir habilidad
+
+Conslusiones de compartir nombre y ahbilidad
+
+#### luego cada numero # comparte una tecnica y cada [] comparte un tasklist
+
+Intro de como utilizar la metodoiga HK
+
+Conslusiones de como detallar la tecnica
+
+Conclsusiones de como poner nombres
+
+Conslusiones de como organizar nombres
 
 ---
 
-CONCLUSIONES:Claro con tooo los objetivos logrados de este paso es facil utilizar en cualquier momento pero puede ser que algunas veces porfalta de dinero u otro motivo religioso un celular no sea un heerramienta disponible a cada moento entonces podemos invocar el viejo papel y lapiz y es acomo este paso se une integramente al siguiente utilizando un cuaderno de control, es decir si tienes una tarea que no trackeas pero sabes que hora inciaste y cuando terminaste podes ingresar a toggl luyego y ingresar una entrada de tiempo con sus respecitovs proyectos y clientes slash habilidad puesto que antes de las 12 todo se registra dejando claro que si lo metesite lo hiciste y tu cuaderno es un control de eso, ademas de otros motivos que veremeos en el siguiente 
+CONCLUSIONES:Claro con tooo los objetivos logrados de este paso es facil utilizar en cualquier momento pero puede ser que algunas veces porfalta de dinero u otro motivo religioso un celular no sea un heerramienta disponible a cada moento entonces podemos invocar el viejo papel y lapiz y es acomo este paso se une integramente al siguiente utilizando un cuaderno de control, es decir si tienes una tarea que no trackeas pero sabes que hora inciaste y cuando terminaste podes ingresar a toggl luyego y ingresar una entrada de tiempo con sus respecitovs proyectos y clientes slash habilidad puesto que antes de las 12 todo se registra dejando claro que si lo metesite lo hiciste y tu cuaderno es un control de eso, ademas de otros motivos que veremeos en el siguiente

@@ -8,29 +8,45 @@ El cuaderno explica esto pero primero debemos crear el habito y que mejor que cr
 
 ## ES UNA GUI DE TU ESPIRTU DIARIO
 
-### controles de ejecucion diaria
+claro mira como el lugar mas intimo tuyo
 
-#### tener tu libro solo es para tener anotado tu rutina omplementandotus habilidades la vida es mas qe solo habiliadeds aveces suceden cosas y eso se debe tener un lugar donde registrar
+### como crear un interface para el espiritu
 
-#### tambien esta la manilla de anotacionrapidas para tomar notas de tiempo como cronometros hya todo un set up que debe tener uno mismo
+si obvioesta bien 
+
+#### contar lod dias que vas a practicar
+
+planes para la realizacion
+
+conclusines de manualidades
+
+#### agregar separadores y palnificadores
+
+originalidad y demas
+
+conslusines de como temerinar esto bien
+
+conlsuones ede como crear un interface
+
+conlsuiones de por es un diario
 
 ## ES UNA COPIA DE HOBONOCHI
 
-### controles de ejecucion diaria
+### Que es escribir todos los dias
 
-#### tus habitos pueden ser como los checkpoint de tu di cuando los identificas podes tomar track de ellos aveces es solo un dato como un numero
+#### un numero, un dato que ejemlepfica tu dia
 
 ## ES UNA COPIA DE BULLET DIARY
 
-### controles de ejecucion diaria
+### como planifico sin no tengo plantillas
 
-#### las paginas estan divididas por semana y tenes task que cumplir como el bullet journal pero ada que eso apaz un calendario y e stodo blanco y metodico nada de libre expresion es un control
+#### el unico objetivo es qe tengas organizado en algun lugar fisico
 
 ## ES UNA METODOLOGIA ORIGINAL DE HABITOS
 
-### controles de ejecucion diaria
+### la personalizacion es esencial
 
-#### puede agregar lo que veas neecsario siempre cumpliendo las regas pero agregando tu personalidad a la fomra de tomar datos ademas de los trazos en tu diario de a manera de crear una habito como puede ser la hora de levantarse peusto que debes anotarlo todos los dias y ver despues tu ejecucion
+#### es tu ejecucion es tu manera de hacer las cosas empieza de a poco para poder modificar
 
 ---
 

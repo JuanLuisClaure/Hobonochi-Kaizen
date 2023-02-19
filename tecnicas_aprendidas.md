@@ -8,29 +8,71 @@ Aca en trello podemos generar un nombre que siga siendo compartido por toda la a
 
 Con el tiempo se construye esto pero para empezar debemos hacr un setup basico con la habiidad de orgnizar practicas deliberdas para que sirva como tecnica a la hora de organizar tu trello y otros apaspectos que hableroemos en las conlusiones.
 
-## UNA METODOLOGIA PARA DEJAR RECORD DE CADA TECNICA USADA
+## METODOLOGIA USADA PARA ORGANIZAR TRELLO
 
-### organizar practiaca deliberada
+esto es como parte de que todo funcione asi qe hay qe aprenderlo no inventarse uno mismo porqe es un engranaje imporante
 
-#### definir tus hablidades en cada board y agregar templates cards con tus tecnicas utilizadas
+### emparejar habilidades con proyectos
 
-#### descubre tus habilidades de forma general como dibujo puede tener tecnicas de dise;o de igual manera cocinar sirve como habilidad de panes de pasts y demas o fuerza fisica
+La tecnica require qe se organice dela sigiente forma
 
-## CADA TECNICA CUENTA CON TRES CHECKLIST
+#### las habilideades debes ser generales y los proyectos compartir nombre
 
-### organizar practiaca deliberada
+Intro de las habilidades
 
-#### cada carta template teiene su particularidad como una descripcion que debe descriibr en pasos como una receta como hacer todo igual del porque de la tecnica
+Conclusines de las habilidades generales
 
-#### esto significa tener tres checjlist bien importanes que todas templates comparten como estructura para que la emetodologi funicones
+#### por default administracion y escribir en esta metodologia
 
-## EMPAREJA CADA HABILIDAD CON LOS PROYECTOS O ACCIONES
+Ontrpo de la administraciony escribir
 
-### organizar practiaca deliberada
+Concluones del default de habilides
 
-#### Cada proyecto es una fila en el borad y contine sus cartas todas siguiendo un orden que nos ayuda a tener mejores metricas al final
+Conslusiones de la tecnina para emaprejar
 
-#### otros nombres y variantes que se puden utilizar para dar contexto son permitidiso este tipo de escritura mientras se mantenga las partes esenciales como el numero y la tecnica general
+Conclusiones de la metodologia
+
+## LOS TEMPLATES DE CADA TECNICA
+
+Los templates son tecnicas qe usamos y son dificiles denombrar pero tienen estas caracteristicas obligatorias
+
+### los atributos especificos de la metodologia
+
+Los atribtos que debes personalizar debes entender su porque para qe puedas editarlos como afectan a lo demas
+
+#### entiende las partes para que puedas contextulizar
+
+Intro de como funciona cada input
+
+Consluuibes de qyueb ebtuebde cibtextulizar
+
+#### otros atributos son obligatorios por el metodo HK
+
+Intro de los checklist
+
+COnslusies de los atribtos obligatorios
+
+Cobclusibes de los atributos especificos
+
+Conlusiones de la tecnica para crear templetaes de tecnicas
+
+## LAS AUTOMATIZACIONES
+
+Esta parte es un bonus pero ayuda a que el flow no se interrupa con la metodologia HK
+
+### Configurando mi trello para qe me ayude
+
+Esto es como llegar a este fecture de trello
+
+#### Cuando puedo empezar con un click y termnar con otro es eficiencia
+
+Intro qedebeo hacer para automitzar label con date ude
+
+Conslusiones de comomo automatizar con un click
+
+Conslusines de las configuraciones
+
+Conclusines de las automatizaciones
 
 ---
 

@@ -7,33 +7,57 @@ Empezando realmente no entiendo como no es eso lo mas importante de todo, puesto
 
 Para entender este paso debemos entender porque lo hacemos es asi que explicado el motivo podemos concentrarnos en el como, claro el set up de esta habito, es importante dedicarle harto tiempo a estas caractersiticas puesto que todo importa y por ultimo como el reflejo de un espejo que cuenta lo que ev todos los pasos mostraran el que del producto osea que es en su superfice, Podria adelantar que es el aprendizaje de una habito.
 
-## ES EQUIVALENTE A TODO LIST
+## como
 
-### plan con ideas draft
+tengo mis intereas para para para
 
-#### tiene que tener un lugar donde ir escribiendo lo que vas haciendo
+### mi cuaderno digital
 
-#### tambien es donde pones las cosas en orden de nombres asi en one note y googple keep de tal manera de poder ir alli a consultar todo
+Este cuaderno es donde pones nombre de tus proyectos y tienen su base de operaciones es decir lo mas importante, es l base de donde parte todo y estan las ideassin salir a cocinar
 
-### plan con index mindmap
+#### carpetas orgnizadas para contener proyectos asociados
 
-#### es como un todo list pero en este caso se asemeja a un libro o a una historia por contar
+#### las hojas de los proyectos con indices y demas
 
-#### se escribe de forma creciente es decir se empieza por dos niveles a nivel draft que contengan el camino el ritmo y dos niveles siguientes que se conectac por tecnicas y storyborads
+conclusiones de tener un cuderno digital
 
-## ES EL PROYECTO EN ESCRITO OSEA LA GUIA O EL MANUAL
+### poniendo nombres a los pryectos
 
-### seguimiento de creacion
+Los nombres sn importantes ero lo mas importante es para el metodo HK
 
-#### Utilizando el index podemos ir describiendo los que vamos haciendo como un manual asi para informar el orden de los pensamientos y el porque de las cosas ademas del como que en suconjunto se refieren al que
+#### que tal este pryectito hobby con habiliades de mi trabajo
 
-#### Se utiliza con el markdown osea que se debe aprender a escribir en markdon
+#### y un proyectito mas de aprender pero para el trabajo igual
 
-### diario de experiencias
+Conclisones para poniendo nombre a los proyectos
 
-#### se escribe de igual manera pero identificano la fecha y el lugar de la exxperiencia para enlazar una experiencia con el desarrollo de una hbailidad
+tengo mis conclusiones para para para
 
-#### Se utiliza el github como herramienta de historial
+## porque
+
+tengo mis porque esto funciona
+
+### mi repositorio de github
+
+Es la manera moderna de salvar tus proyectos de forma segura y muchas cosas mas
+
+#### es la moda pues por ser mas eficiente pero claro hay qe aprender ciertas cosas
+
+#### en la practica es un poco de instalar un poco de configurar
+
+Conclusones de tener una cuenta de github ademas de instalar
+
+### el markdown sio si aprender
+
+Es la manera de escribir textos ademas de agregar imagens pero en un formato sin columnas es maseficiente y esta en el mismo sector de la actulidad
+
+#### ciertas costumebres para escribir en markdown
+
+#### es un actulizaciona tus habilidades de este siglo
+
+Coonsluones de como es aprneder markdown
+
+ademas de una peque;a conslunsion de este indice no del total
 
 ---
 
