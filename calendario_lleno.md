@@ -12,7 +12,7 @@ Si es algo importante la visulizacion por eso es bueno poner
 
 ### todo el trabajo lo hace el codigo
 
-Claro que si lomas importante pero 
+Claro que si lomas importante pero
 
 #### algunas sugerencias a la hora de acomodar tu calenadrio ademas de poner los task de tu rutina diaria solo que aveces hay qe agregar las actividades del diario y otras veces debemso agregar detalles a los task cumplidos cada mes, esta seria la foram de virtualizar el diario
 
