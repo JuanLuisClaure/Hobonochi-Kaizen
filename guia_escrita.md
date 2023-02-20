@@ -59,29 +59,33 @@ Ahora debo enfocarme en conseguir bbuena informacion para agregar a las hojas de
 
 Tan solo ahora hemos encontrado ennuestro libro digital la organizacion necesaria que cumpla con los requerimientos de la integraion de fdiferentes aplicaciones y esta conexcion se da gracias a los nombres fijos de cada proyecto que se van a utilizar atraz de las sugientes pasos.
 
-Ademas ahora tenemos una base donde guarda todos los procesos de pensamiento de los diferentes proyectos, y esto a lo largo vale oro pues nos ense;a y puede logrartengo mis conclusiones para para para
+Ademas ahora tenemos una base donde guarda todos los procesos de pensamiento de los diferentes proyectos, y esto a lo largo vale oro pues nos ense;a y puede lograr que se tenga un acceso indemdiato al roceso de pensar de a;os atras entonces se puede reutilizar y en elmejor de los casos se puede escribir un libro qe ense;e ese proceso para otras personas pero el objetivo es sacar valor al tenerlo organizado y guradado en contexto.
 
 ## PORQUE UTLIZAR GIT
 
-tengo mis porque esto funciona
+Al ser este metodo un metodo moderno se basa en utilizar las mejores herramientas que existen y parte de esta decision es que aveces vemos la herramienta de git como algo totalmente de personas que hacen codigo pero cuando se trata de escribir textos tambien es una gran ayuda porque ademas de poder versionar cada contribucion que hacemos logrando asi que el aprendizaje sea mas profundo para quien lo lea, Aparte este texto se sube a una red social que aglomera a monton de creadores y es base de tener un portafolio digital en el siglo 21. Estas razones hacen de git una herramienta que con el paso de los a;os se ira entrometiendo en la vida de las personas sin que se den cuenta. especialmente en el trabajo donde se necesita dejar record de cada accion, por eso mejor o mas conveniente es tener el conocimiento aplicado a diario.
+
+Esto nos conlleva a crear el git como el contrario del libro digital es decir aca solo se escriben las cosas que son en formato limpio. Es decir que pese a tener hojas escritas en el libro digital de igual manera es en el repositorio de ese proyecto dnde se resume de forma limpia tal cual se quieren mostrar a la sociedad. Generalmente este formato lleva un parecido con los papeles de estudios cientificos. Es asi que al tener una cuenta de github lo primero es emparejar repositorios en limpio para cada proyecto que tengamos. En este caso contamos con dos proyectos por ende necesitamos dos repositorios sicronizados con nuestra comptadora lo cual se hace de la siguiente forma
 
 ### MIS REPOSITORIOS EN GITHUB
 
-Es la manera moderna de salvar tus proyectos de forma segura y muchas cosas mas
+Crear una cuenta en github seguir los pasos sencillos y llegar a dondenos da la opcion de descargar git como porgrma para nuestra computadora. Podesmos escoger entre varias clases de programas qe hacen lo mismo. PAra tener idea de las ventajas podemos hacer una investigacion previa pero en esencia todos descargan unas funciones que podemos llamar desde el comando de linae, es decir que de maneras diferente utilizan todos estas funciones entonces no importa con cual te sientas mas comdoo noafectara en el metodo HK.
 
 #### es la moda pues por ser mas eficiente pero claro hay qe aprender ciertas cosas
 
-ALGO SENCILLITIO
+Puede que suene muy moderno pero la idea es muy simple cada persona puede contribuir a tu repositorio pero cmo hay miles de repositioros los unicos qe vana contribuir son vos y vos. Ademas hay un sitema de alarmas muy bien pensadas para que no modifiquen nada que vos no quieras sintu permiso ademas. De todo modos es buen entender que esta caracteristica de github porque comparte la informacion con todos o almenos da la opcion default de hacerlo. 
 
-CONSLUSINES
+Lo segundo interesante es que es un sistema de versonamiento es decir que cada vez que modificas un texto en el repositirio deja un rastro y deja una copia del texto hasta ahi para si alguna vez deseas volver a ese estado no cuenta nada ya que es parte del sistema. la idea es manejar monton de gente en un mismo proyecto sin que unos perjudiquen a otros ya que cuenta con alarmas muy inteligentes que entienden cuando algo se estaperdiendo o corrompiendo. De ultimo estas caractersiticas suenan muy modernas pero enrelidad son muy utiles.
+
+En el caso de imagenes y documentos de word hay trucos tecnicos que transforman estos archivos a binarios siendo asi guardados en el repositorio por eso existe un lenguaje exclusivo para textos que hablaremos luego. lo importante es crearse una cuenta y crear repositorios con el nombre de los proyectos
 
 #### en la practica es un poco de instalar un poco de configurar
 
-algo sencillito
+En la practica existe un boton que dice clonar este boton es donde copias el repositorio en tu computadora y gracias al programa de git se interconectan sabiendo que vos como usuario estas modificando ese repositoroi de forma remota desde una computadora. Entonces esa informacion queda registrada permitiendo las grandes caracteristicas que eplicamos antes. auqnue dicho lo de la computadora remota se debe entender que otra importacia de este metodo es que no importa se puede editar desde cualquier compu siempre teniendo la parte mas actulizada. 
 
-conslisones de esto
+Aprender esta tecnologia es mas que nada tener en cuenta los comando saber hacer commit y ser contaste. es tan facil que con el paso del tiempo es automatico. y la sincronizacion es espectacular porque dejar mensajes para cada accion que uno desea commit osea agregar es muy relajante. Es decir da una forma visual de mostrar cnuestro progreso y de cuidar que no se pierda.
 
-Conclusones de tener una cuenta de github ademas de instalar
+Es el caso de que sea muy novato con las computadoras que puedes sentir frustao pero parendergithub es un deber en este siglo por la competencia laboral, imaginate algo tan sencillo que ayuda a trabjar en equipo. que deja rastros para volver si necesita sin muchas preocupaciones. es mejor que word. pero todo tiene su pero y ahora veremos el pero del github.
 
 ### EL MARKDOWN FORMA DE ESCRIBIR
 
