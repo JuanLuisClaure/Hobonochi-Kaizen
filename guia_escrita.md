@@ -39,23 +39,27 @@ Este metodo de organizar a la HK se basa en la integracion de diferentes herrami
 
 ### NOMBRES A LOS PROYECTOS
 
-Los nombres son importantes por que nos dan la identidad a un proyecto, pero no siempre tenemos la imaginacion para certar con un nombre al principio, entonces tomando los conocimeintos de la estrategia militar es bueno dar alias a los proyectos reales que sean identificante de este proyecto pero dentro de un circulo intimo, en este caso podremos ser nosotros mismo y la intimidad es tal que si algun dia 
+Los nombres son importantes por que nos dan la identidad a un proyecto, pero no siempre tenemos la imaginacion para certar con un nombre al principio, entonces tomando los conocimeintos de la estrategia militar es bueno dar alias a los proyectos reales que sean identificante de este proyecto pero dentro de un circulo intimo, en este caso podremos ser nosotros mismo y la intimidad es tal que si algun dia se nos antoja ver nuestro progreso estara vinculado a este nickname y solo nosotros entendenremos porque.
+
+En cualquier caso es bueno tener una sistema para poner nombres, teniendo en cuenta que no creo posible manejar mas de 26 proyectos al mismo tiempo podemos utilizar el alfabeto como nickname es decir puede ser una inicial o un represantivo, en este caso quisiera utilizar la H y la P y de esta forma no puedo utilizar esto de nuevo mientras este activo capaz cuando quiera archivarlo puedo cambiar el nombre del libro y continuar. Algo tan sencillo es la parte mas importante de este paso puesto que con este nickname podemos linkear otras aplicaciones, primero utilicemos esta tecnica y luego continuamos como se puede integrar gracias a un nombre.
 
 #### que tal este pryectito hobby con habiliades de mi trabajo
 
-aca biene algo sencillo
+Primero vamos agregar ese proyecto del trabajo que es lo que hacemos todo el dia, osea podemos inciar de nuevo con un nuevo libro pero el conocimiento ya lo tenemos asi que veremos como se aplica el metodo HK en un proyecto que ya tenemos corriendo, es decir que con el metodo nos encargamos de registrar nuestra habilidades y los tiempos de ejecucion.El nombre a este libro sera de PROYECTO P.
 
-y su conslusion
+En este libro lo vamos agregar en la carpeta de negocios o trabajo como sea que te convenga, el tema es que ahora tenemos un libro que sera la base de los datos de mi trabajo, en este caso es una tema de una habilidad de programacion pero no viene al caso ya qe solo debo agregar todos los dibujos que tenga de otro lado. tengo varios draft que puedo copiar y pegar encima una hojadentro del libro
+
+Bueno escogido el nombre y organizado dentro del libro digital no existe mas que utilizar este nombre y libro constantemente atravez de los siugientes pasos
 
 #### y un proyectito mas de aprender pero para el trabajo igual
 
-si algo
+Del mismo modo en mi trabajo tengo la posibilidad de ascender de puesto si logro aprender como utilizar una nueva habilidad que apenas conozco pero bueno a modo de aprender necesito un nuevo proyecto que cumple la mision de ser un ejemplo que pueda mostrar a mis jefes de manera de conseguir un ascenso gracias a ser un trabajador multi habilidoso, siendo asi la habilidad que quiero dominar es la ciencia de datos y tengo en mente un proyecto que puedo hacer en mi tiempo libre. Del mismo modo que hice con mi proyecto anterior a este proyecto lo organizare bajo el libro con el nombre de Proyecto H.
 
-conslusione
+Ahora debo enfocarme en conseguir bbuena informacion para agregar a las hojas de este proyecto y de igualmnaera usar el nombre de manera constante atravez de los siguientes pasos.
 
-Conclisones para poniendo nombre a los proyectos
+Tan solo ahora hemos encontrado ennuestro libro digital la organizacion necesaria que cumpla con los requerimientos de la integraion de fdiferentes aplicaciones y esta conexcion se da gracias a los nombres fijos de cada proyecto que se van a utilizar atraz de las sugientes pasos.
 
-tengo mis conclusiones para para para
+Ademas ahora tenemos una base donde guarda todos los procesos de pensamiento de los diferentes proyectos, y esto a lo largo vale oro pues nos ense;a y puede logrartengo mis conclusiones para para para
 
 ## PORQUE UTLIZAR GIT
 
