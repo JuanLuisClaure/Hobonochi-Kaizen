@@ -19,21 +19,27 @@ Un requerimiento de este paso es inciar un cuaderno digital y convertilo en el c
 
 #### carpetas orgnizadas para contener proyectos asociados
 
-algo senciollo
+Todo los libros digitales tiene una manera de crear carpetas donde pueden ir otras carpetas, entonces haciendo uso de esta caracteristica podemos crear grupos de poryectos generales, por ejemplo para el trabajo y para mis negocios creo una carpeta llamada generadore de dinero, igual en mi calidad de programador tengo proyectos que van en la categoria de open source y asi con los sucesivos proyectos, incluso puedo tener una carpeta donde van todo los proyectos deshechados, fallidos a manera de historial. Este primer nivel pueden tener lo nombres qe desees siempre y cuando te ayuden a guiarte entre la montonera de proyectos que puede uno llegar a tener a largo de la vida.
 
-y su conslusion
+Luego podemos puntualizar que se encuentran los libros, son como carpetas pero enrelidad contienen hojas. entonces podemos llamar a cada libro un proyecto y sus hojas merecen un tratamiento aparte que veremos a continuacion.
+
+Pero antes quisiera llegar a una conslusion sobre este tema. La organizacion a mas simple mejor pero es cierto que puede haber un grado elevado de error, es decir debes estar dispuesto a reacomodar y adaptarte al pasar del tiempo,siendo el caso de cambiar nombres o mover proyectos a fallidos ademas de creando mejores caetgorias generales o cualquier otra mejora
 
 #### las hojas de los proyectos con indices y demas
 
-ALGO SENCILLO
+Las hojas dentro de un libro son donde se alamcena la informacion en formato borrador es decir que pasa por aca antes de lograrse dando a estas hojas la cualidad de ser el proceso para la solucion. Algo sencillo puesto que desde colegio ya tenemos este habito de tomar notas solo que en una hoja digital esto se amplia la opcion de poder pegar links y iamgenes de forma rapida. Todo este avallasamiento de infomracion es mejor ponerla en orden antes de que sea un caos entonces como primer hoja principal de todo libro proyecto se debe agregar con el titulo de INDICE donde existe diferentes tablas, cada tabla representa una accion que se puede hacer en las demas hojas, es decir puede que tengamos hoja qe resumen libros qe leemos entonces debe tener su pareja de resumenes en el indice y ente grupo debe ir un link a cada uno de estos resumenes. Es decir que cuando necesites buscar un resumen de libro tan solo debes buscar el indice y hacer click en el link a la hoja respectiva, ademas se puede tomar notas como la fecha que se escribio. 
 
-conslusones
+Este es una habito de organizacion que viene con todo libro digital, Es decir relacionar las hojas para utilizar todo el potencial de un programa por lo que una accion tan sencilla contiene al igual que una semilla de un arbol toda la energia para crecer pero con el pasar constante del tiempo. Si no escribes este indice en cada uno de los libros proyecto solo tendras una caos de dificil lectura puesto que existen categorias como draft y diagramas que sin un titulo y una descripcion pueden no conectar aprpiadamente las ideas al plan mas amplio reduciendo la informacion qe recuperemos de nuestros libro de proceso
 
-conclusiones de tener un cuderno digital
+Como vemos las hojas son nuestra base de datos digital con formato en diferente medios para que podamos aprovechar de la tecnologia para relacionar informacion deforma rapida y de facil acceso
+
+Ahora entendemos como una cuaderno digital es la primera parte de una organizacion sin importar la marca puesto que las tecnicas usadas son de sencillo uso, intuitivo y sobre todo orientado a la integracion con las demas herramientas puesto que aca dejamos listo los espacion para escoger los nombres del proyecto
+
+Este metodo de organizar a la HK se basa en la integracion de diferentes herramientas por eso utlizar un libro digital como el primer paso en el circuito de actividades diarias que estamos aprendiendo podemos orgnizar nuestras ideas sobre un pryecto de tal manera de ir moldeando un producto o un servicio como resultado, en el metodo HK el cuaderno digital es el mapa con el que nos movemos atravez del tiempo. Aca se ve el proceso de la recoleccion de ideas e informacion y mas importante se definine los nombres de los proyectos que son la parte esencial que nos brinda el primer paso.
 
 ### NOMBRES A LOS PROYECTOS
 
-Los nombres sn importantes ero lo mas importante es para el metodo HK
+Los nombres son importantes por que nos dan la identidad a un proyecto, pero no siempre tenemos la imaginacion para certar con un nombre al principio, entonces tomando los conocimeintos de la estrategia militar es bueno dar alias a los proyectos reales que sean identificante de este proyecto pero dentro de un circulo intimo, en este caso podremos ser nosotros mismo y la intimidad es tal que si algun dia 
 
 #### que tal este pryectito hobby con habiliades de mi trabajo
 
@@ -42,6 +48,10 @@ aca biene algo sencillo
 y su conslusion
 
 #### y un proyectito mas de aprender pero para el trabajo igual
+
+si algo
+
+conslusione
 
 Conclisones para poniendo nombre a los proyectos
 
