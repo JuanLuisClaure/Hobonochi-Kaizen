@@ -7,25 +7,37 @@ Empezando realmente no entiendo como no es eso lo mas importante de todo, puesto
 
 Para entender este paso debemos entender porque lo hacemos es asi que explicado el motivo podemos concentrarnos en el como, claro el set up de esta habito, es importante dedicarle harto tiempo a estas caractersiticas puesto que todo importa y por ultimo como el reflejo de un espejo que cuenta lo que ev todos los pasos mostraran el que del producto osea que es en su superfice, Podria adelantar que es el aprendizaje de una habito.
 
-## como
+## COMO EL METODO HK ORGNIZA
 
 tengo mis intereas para para para
 
-### mi cuaderno digital
+### MI NOTEBOOK DIGITAL
 
 Este cuaderno es donde pones nombre de tus proyectos y tienen su base de operaciones es decir lo mas importante, es l base de donde parte todo y estan las ideassin salir a cocinar
 
 #### carpetas orgnizadas para contener proyectos asociados
 
+algo senciollo
+
+y su conslusion
+
 #### las hojas de los proyectos con indices y demas
+
+ALGO SENCILLO
+
+conslusones
 
 conclusiones de tener un cuderno digital
 
-### poniendo nombres a los pryectos
+### NOMBRES A LOS PROYECTOS
 
 Los nombres sn importantes ero lo mas importante es para el metodo HK
 
 #### que tal este pryectito hobby con habiliades de mi trabajo
+
+aca biene algo sencillo
+
+y su conslusion
 
 #### y un proyectito mas de aprender pero para el trabajo igual
 
@@ -33,27 +45,43 @@ Conclisones para poniendo nombre a los proyectos
 
 tengo mis conclusiones para para para
 
-## porque
+## PORQUE UTLIZAR GIT
 
 tengo mis porque esto funciona
 
-### mi repositorio de github
+### MIS REPOSITORIOS EN GITHUB
 
 Es la manera moderna de salvar tus proyectos de forma segura y muchas cosas mas
 
 #### es la moda pues por ser mas eficiente pero claro hay qe aprender ciertas cosas
 
+ALGO SENCILLITIO
+
+CONSLUSINES
+
 #### en la practica es un poco de instalar un poco de configurar
+
+algo sencillito
+
+conslisones de esto
 
 Conclusones de tener una cuenta de github ademas de instalar
 
-### el markdown sio si aprender
+### EL MARKDOWN FORMA DE ESCRIBIR
 
 Es la manera de escribir textos ademas de agregar imagens pero en un formato sin columnas es maseficiente y esta en el mismo sector de la actulidad
 
 #### ciertas costumebres para escribir en markdown
 
+algo sencillo
+
+conslusiones si
+
 #### es un actulizaciona tus habilidades de este siglo
+
+un sencillo 
+
+conslisones de este punto
 
 Coonsluones de como es aprneder markdown
 
