@@ -9,11 +9,13 @@ Para entender este paso debemos entender porque lo hacemos es asi que explicado 
 
 ## COMO EL METODO HK ORGNIZA
 
-tengo mis intereas para para para
+Cree en ti mismo y veras que es mas facil hacerlo sin encuentras un proyecto al cual dedicar tu vida, Se puede escribir mucho sobre como encontrar tu trabajo ideal, ese en el que, el oficio es el mismo qe el hobby, es decir que un trabajo donde nos pagan por hacer lo que nos gusta, entonces podria seguir avanzando en los antecedentes de estos eventos para darme cuenta que un trabajo asi seria el cual me pide utilizar una habilidad que conozco bien, En este caso vamos a suponer que es la programacion o la accion de escribir codigo. Pero podria ser cualquiera el caso talvez otra habilidad relacionada a otro trabajo. Lo interesante es saber que la raiz de un trabajo feliz es el dominio de una habilidad.
+
+Volviendo a esta guia quiero que veas este paso como el primero de un circuito de pasos que vas aprender, es decir si tuvieramos una adventura en una ciudad que no conocemos la primera herramienta que nos sirve seria un mapa, de igual manera este es una mapa de la actividades de tu vida. Puesto que al igual qe un mapa pone nombres a las calles y avenidas de una ciudad, este paso colecta los nombres de los proyectos que componen las actividades de tus dias. Al ser nuestro objetivo integrar diferentes programas para controlar el tiempo de nuestras actividades, Debemos definir nombres en este paso para poder contribuir a la integracion.
 
 ### MI NOTEBOOK DIGITAL
 
-Este cuaderno es donde pones nombre de tus proyectos y tienen su base de operaciones es decir lo mas importante, es l base de donde parte todo y estan las ideassin salir a cocinar
+Un requerimiento de este paso es inciar un cuaderno digital y convertilo en el cuaderno de notas global de nuestros proyectos, Estos cuadernos digitales vienen en diferentes variedades, pero todos hacen lo esencial, en esta guia si no tienes una preferencia te recomendamos utilizar onenote de microsoft y si no lo esencial es entender la organizacion global que tiene como mision este cuaderno digital. Puede que te parescan muy sencillos los pasos entonces puede que te preguntes que esto no podria funcionar, al contrario de tu posible sentir puedo asegurarte que estos requerimientos son solo un tornillo de todo el maquinon, y a medida que avancemos veras como se van sincronizando. En el caso del cuaderno digital su funcion es llevar la cuenta de los proyectos y sus nombres pero para esto vamos a primero crear una organizacion qe pueda ayudarnos a mantener todo en orden de tal manera que tengamos acceso a los papeles de forma global de cualquiera de nuestros proyectos siendo estos notas, links fotos dibujos infogracias y otros medios que son parte fudnamental del pensar de cada proyecto, es decir contienen el proceso que llevan a los resultados. Entonces podemos enfocarnos en organizar esto una sola vez y luego intutivamente ir agrosando el material recogido.
 
 #### carpetas orgnizadas para contener proyectos asociados
 
@@ -79,7 +81,7 @@ conslusiones si
 
 #### es un actulizaciona tus habilidades de este siglo
 
-un sencillo 
+un sencillo
 
 conslisones de este punto
 
