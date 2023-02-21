@@ -27,7 +27,7 @@ Pero antes quisiera llegar a una conslusion sobre este tema. La organizacion a m
 
 #### las hojas de los proyectos con indices y demas
 
-Las hojas dentro de un libro son donde se alamcena la informacion en formato borrador es decir que pasa por aca antes de lograrse dando a estas hojas la cualidad de ser el proceso para la solucion. Algo sencillo puesto que desde colegio ya tenemos este habito de tomar notas solo que en una hoja digital esto se amplia la opcion de poder pegar links y iamgenes de forma rapida. Todo este avallasamiento de infomracion es mejor ponerla en orden antes de que sea un caos entonces como primer hoja principal de todo libro proyecto se debe agregar con el titulo de INDICE donde existe diferentes tablas, cada tabla representa una accion que se puede hacer en las demas hojas, es decir puede que tengamos hoja qe resumen libros qe leemos entonces debe tener su pareja de resumenes en el indice y ente grupo debe ir un link a cada uno de estos resumenes. Es decir que cuando necesites buscar un resumen de libro tan solo debes buscar el indice y hacer click en el link a la hoja respectiva, ademas se puede tomar notas como la fecha que se escribio. 
+Las hojas dentro de un libro son donde se alamcena la informacion en formato borrador es decir que pasa por aca antes de lograrse dando a estas hojas la cualidad de ser el proceso para la solucion. Algo sencillo puesto que desde colegio ya tenemos este habito de tomar notas solo que en una hoja digital esto se amplia la opcion de poder pegar links y iamgenes de forma rapida. Todo este avallasamiento de infomracion es mejor ponerla en orden antes de que sea un caos entonces como primer hoja principal de todo libro proyecto se debe agregar con el titulo de INDICE donde existe diferentes tablas, cada tabla representa una accion que se puede hacer en las demas hojas, es decir puede que tengamos hoja qe resumen libros qe leemos entonces debe tener su pareja de resumenes en el indice y ente grupo debe ir un link a cada uno de estos resumenes. Es decir que cuando necesites buscar un resumen de libro tan solo debes buscar el indice y hacer click en el link a la hoja respectiva, ademas se puede tomar notas como la fecha que se escribio.
 
 Este es una habito de organizacion que viene con todo libro digital, Es decir relacionar las hojas para utilizar todo el potencial de un programa por lo que una accion tan sencilla contiene al igual que una semilla de un arbol toda la energia para crecer pero con el pasar constante del tiempo. Si no escribes este indice en cada uno de los libros proyecto solo tendras una caos de dificil lectura puesto que existen categorias como draft y diagramas que sin un titulo y una descripcion pueden no conectar aprpiadamente las ideas al plan mas amplio reduciendo la informacion qe recuperemos de nuestros libro de proceso
 
@@ -57,9 +57,9 @@ Del mismo modo en mi trabajo tengo la posibilidad de ascender de puesto si logro
 
 Ahora debo enfocarme en conseguir bbuena informacion para agregar a las hojas de este proyecto y de igualmnaera usar el nombre de manera constante atravez de los siguientes pasos.
 
-Tan solo ahora hemos encontrado ennuestro libro digital la organizacion necesaria que cumpla con los requerimientos de la integraion de fdiferentes aplicaciones y esta conexcion se da gracias a los nombres fijos de cada proyecto que se van a utilizar atraz de las sugientes pasos.
+Consluyendo esto de los nombres tenemos dos proyectos con lo equivalente a sus nombres ven nicknames lo cual es el primer paso cumplido de este circuitoasi qun aplasuo a nuestro perseveracia.
 
-Ademas ahora tenemos una base donde guarda todos los procesos de pensamiento de los diferentes proyectos, y esto a lo largo vale oro pues nos ense;a y puede lograr que se tenga un acceso indemdiato al roceso de pensar de a;os atras entonces se puede reutilizar y en elmejor de los casos se puede escribir un libro qe ense;e ese proceso para otras personas pero el objetivo es sacar valor al tenerlo organizado y guradado en contexto.
+Tan solo ahora hemos encontrado ennuestro libro digital la organizacion necesaria que cumpla con los requerimientos de la integraion de fdiferentes aplicaciones y esta conexcion se da gracias a los nombres fijos de cada proyecto que se van a utilizar atraz de las sugientes pasos. Ademas ahora tenemos una base donde guarda todos los procesos de pensamiento de los diferentes proyectos, y esto a lo largo vale oro pues nos ense;a y puede lograr que se tenga un acceso indemdiato al roceso de pensar de a;os atras entonces se puede reutilizar y en elmejor de los casos se puede escribir un libro qe ense;e ese proceso para otras personas pero el objetivo es sacar valor al tenerlo organizado y guradado en contexto.
 
 ## PORQUE UTLIZAR GIT
 
@@ -73,7 +73,7 @@ Crear una cuenta en github seguir los pasos sencillos y llegar a dondenos da la 
 
 #### es la moda pues por ser mas eficiente pero claro hay qe aprender ciertas cosas
 
-Puede que suene muy moderno pero la idea es muy simple cada persona puede contribuir a tu repositorio pero cmo hay miles de repositioros los unicos qe vana contribuir son vos y vos. Ademas hay un sitema de alarmas muy bien pensadas para que no modifiquen nada que vos no quieras sintu permiso ademas. De todo modos es buen entender que esta caracteristica de github porque comparte la informacion con todos o almenos da la opcion default de hacerlo. 
+Puede que suene muy moderno pero la idea es muy simple cada persona puede contribuir a tu repositorio pero cmo hay miles de repositioros los unicos qe vana contribuir son vos y vos. Ademas hay un sitema de alarmas muy bien pensadas para que no modifiquen nada que vos no quieras sintu permiso ademas. De todo modos es buen entender que esta caracteristica de github porque comparte la informacion con todos o almenos da la opcion default de hacerlo.
 
 Lo segundo interesante es que es un sistema de versonamiento es decir que cada vez que modificas un texto en el repositirio deja un rastro y deja una copia del texto hasta ahi para si alguna vez deseas volver a ese estado no cuenta nada ya que es parte del sistema. la idea es manejar monton de gente en un mismo proyecto sin que unos perjudiquen a otros ya que cuenta con alarmas muy inteligentes que entienden cuando algo se estaperdiendo o corrompiendo. De ultimo estas caractersiticas suenan muy modernas pero enrelidad son muy utiles.
 
@@ -81,7 +81,7 @@ En el caso de imagenes y documentos de word hay trucos tecnicos que transforman 
 
 #### en la practica es un poco de instalar un poco de configurar
 
-En la practica existe un boton que dice clonar este boton es donde copias el repositorio en tu computadora y gracias al programa de git se interconectan sabiendo que vos como usuario estas modificando ese repositoroi de forma remota desde una computadora. Entonces esa informacion queda registrada permitiendo las grandes caracteristicas que eplicamos antes. auqnue dicho lo de la computadora remota se debe entender que otra importacia de este metodo es que no importa se puede editar desde cualquier compu siempre teniendo la parte mas actulizada. 
+En la practica existe un boton que dice clonar este boton es donde copias el repositorio en tu computadora y gracias al programa de git se interconectan sabiendo que vos como usuario estas modificando ese repositoroi de forma remota desde una computadora. Entonces esa informacion queda registrada permitiendo las grandes caracteristicas que eplicamos antes. auqnue dicho lo de la computadora remota se debe entender que otra importacia de este metodo es que no importa se puede editar desde cualquier compu siempre teniendo la parte mas actulizada.
 
 Aprender esta tecnologia es mas que nada tener en cuenta los comando saber hacer commit y ser contaste. es tan facil que con el paso del tiempo es automatico. y la sincronizacion es espectacular porque dejar mensajes para cada accion que uno desea commit osea agregar es muy relajante. Es decir da una forma visual de mostrar cnuestro progreso y de cuidar que no se pierda.
 
@@ -89,23 +89,25 @@ Es el caso de que sea muy novato con las computadoras que puedes sentir frustao 
 
 ### EL MARKDOWN FORMA DE ESCRIBIR
 
-Es la manera de escribir textos ademas de agregar imagens pero en un formato sin columnas es maseficiente y esta en el mismo sector de la actulidad
+Es la manera de escribir textos mas simple que existe puesto que solo tiene unos formatos prederterminados, es decir que no puedes escribir en otro formato ni existe la perdida de tiempo de escoger una font y los titulos y las lineas, es tan simple que se escribe en un codigo especial. La manera de empezar es creando un archivo que termine en la extension .md y luego podemos empezar a escribrir. Al principio pueda costar aprender los signos como para el header numero uno osea el mas grande podemos empezar una linea con # y asi esa linea sera un titulo uno y con el titulo dos seria ## dos de este signo asi hasta el titulo 6 que son 6 de los # signos pero cada uno con dise;o diferente. El tema es que este tipo de escritura ademas de ser simple es la manera de dejar textos en el github. van de la mano.
+
+Este formato tiene la ventaja que los word no pueden y es agregar plots y formulas matematicas sin afectar la impresion osea uqe de manera rigorasa digamos que el elevado por dos se nota mejor en markdown ya que es este lenguaje el que se utiliza en los papeles cientificos, por este motivo mejor es tener el markdown desde el incio por si algun momento se require agregar plots y cosas de estadisticas numeros tablas o incluso imagenes. Todo lo cubre. vale la pena aprender ete lengaje envez de utilizar word u otro editor de documentos. Es un nivel mas bajo y por ende mas simple de usar pero menos intuitivo, ademas qe requiere tener un editor de texto. Es lo que se utilza en la metodologia HK porque es moderno y eficiente lo que permite al flow de la concentracion continuar sin distraerse.
 
 #### ciertas costumebres para escribir en markdown
 
-algo sencillo
+Bueno lo mas sencillo es lo mas bonito entonces tenemos titulos de direnretes tama;os y esto ya nos da un concepto de donde hay qe utilizarlos como incio de un parrafo y su importancia, igual apra qoutes tenes el signo > y para code solo tenoms qe hacer un tab hacia la derecha. de igual menra ordenra las listas y solos bulletlist se pueden, al igual cada parrafo va en una linea eso es importante saber y existen los decorativos de underline, italic bold y tachado.
 
-conslusiones si
+El tema es comenzaare ir escribiendo la habilidad se gana rapido y es unidex en lo profesional por lo que se puede pasar aotroso formatos de forma facil ppoque es un nivel mas bajo de texto.
 
 #### es un actulizaciona tus habilidades de este siglo
 
-un sencillo
+Ademas es necesario tener un editor de texto que viene con plugins que ayudan a el uso de este lenguaje pero si ya estamos con github es muy poco lo que falta para escribir en markdown, es una habilidad de este siglo que necesitas animarte a aprender aplicando en este proyecto que el metodo HK
 
-conslisones de este punto
+En este punto ya tiene los repositorois limpios y con lenguaje markdown lo que hace de su interpotabilidad muy amplia y se comparte con otros formatos de escritura pudiendo vonvertirse en un libro pdf, con el tiempo esto aumenta en dibujos en gif y es una arte que te hubiera empezado antes por el exito profesional que trae esta habilidad
 
-Coonsluones de como es aprneder markdown
+Ademas sin demora esto puede conseguirte un trabajo como el que hace los documentos porque puedes utilizar herramientas que lo trnaforamn en manuales en linea que se pueden comaprtir ademas ede corregir sin neceidad de volver a lanzar todo el maunal sino qe se actuliza de modo real time.
 
-ademas de una peque;a conslunsion de este indice no del total
+Por eso el markdon con el git son una combinacion mataora, teniendo ahora todo para dejar en limpio tus libros y de apoco con versiones eguridad y ademas en un lenguej que te permite enfocarte en escribir mas sin distrciones de estilos o fonts sino tan normalizado al esticlo de estudios cientificos que va llamar la atencion profeisonalmente que pueda utizar estas habildadse tan solo para tu organizacion personal
 
 ---
 
