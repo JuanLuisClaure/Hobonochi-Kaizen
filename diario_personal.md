@@ -50,7 +50,7 @@ conslusiones de tomar logros semanesles
 
 ## ES UNA COPIA DE BULLET DIARY
 
-Estes si es el que toma noatas en una sola hoja en los eparadores 
+Estes si es el que toma noatas en una sola hoja en los eparadores
 
 ### como planifico sin no tengo plantillas
 
