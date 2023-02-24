@@ -60,13 +60,13 @@ Para concluir podemos ver como el template solo sirve para dejar claro el numero
 
 #### otros atributos son obligatorios por el metodo HK
 
-Intro de los checklist
+Los checklist son lo mas imporante de una carta porque marcan el resultado si fue buen aplicado o no, se dividen en tres categorias que tambien deben tener estos nombres |hk method| |sure goals| |chckpnts| estos tres se dividen las tareas de las sigueinte forma, para el hk method vienen las tareas de integracion con todo el proyecto, es decir que se espera que se logre de esta tecnica desde el punto de vista de interacion con las otras partes del proyecto, luego tenemos los sure goals que son los objetivos que si o si se espera qe se cumpla en esta tecnica. El tercero a diferencia de los dos anteriores no tiene un checklist anotado sino qe deben ser todas las cosas que debes hacer en esta tecnica, asi como check points de la tecnica. Estos atributos se modifican de acuerdo a la practica que se les haga pero en estado que estamos trabajndo del template esta bien escribir lo que se espera en tanto sure goals y hk method como para tener un mapa antes de usarlo puesto qe definen el horizonte y la direccion de la tecnica.
 
-COnslusies de los atribtos obligatorios
+Luego tenemos los label que a pesar de ser obligatorios se pueden personalizar, enrelidad son sentimientos o tags que identifican el proceso de tu tecnica. como veras luego son obligatorios porque aparte de la personlizacion debes reservar tres para los siguientes nombres, planificando, comenzando, termiando. Esto con el fin de identifiar los tres principales estados de una tecnica y dejando constancia de las fechas de incio y final. Como veremoos luego esto se puede automatizar.
 
-Cobclusibes de los atributos especificos
+Revisados todos los atributos de una carta ahora se pueden dejar templates con las idnicaciones de donde personalizar el cotenido ademas de identificar con mas detalle cada tecnia en una serie de checklist. Estasinformaciones colocadas en cada carta crean un patron que luego le sera facil idintificar a los modelos estadisictos para poder darnos estimados de cada tecnica relacionado a la informacion qe pusimos. Es un proceso de autoalimentacion
 
-Conlusiones de la tecnica para crear templetaes de tecnicas
+Los templates son la parte activa de las configuraciones del metodo HK ya que a medida que pase el tiempo nuevas ecnicas se brindaran a ser templeadas y si se respeta las reglas pontro tendras el detalle de varias tecnicas permitiendo a tu cerebro concentrarse en la ejcucion y la informacoin estara almacenada de forma que caa proyecto que utiliza esta tecnica deja un rastro de ese proyecto diferenciando sutilmente la misma tecnica utilizada dos veces. lo que nos permte tener varios puntos de vista detallados de nuestras tecnicas lo que nos lleva a mejorar nuestros templates o crear nuevas tecnias asi dandonos la posibilidad de controlar nuestra practica de fomra deliberada para luego podes ver a trabez de las estadisticas el promedio de la tecnica a travez de todos los contextos, incialmente saber el tiempo estimado que llevaria repetir la tecnica seria una estadistica impornate para el metodo HK.
 
 ## LAS AUTOMATIZACIONES
 
