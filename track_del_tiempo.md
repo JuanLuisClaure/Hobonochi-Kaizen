@@ -26,27 +26,29 @@ Por ultimo escoger toggl no tien su descventaja en el moento que queremos tracke
 
 ## ORGANIZA PROYECTOS CON CLIENTES QUE SON HABILIDADES
 
-De esta manera se puede poner los nombres compartiendo con los demas
+Al igual que las demas aplicaciones que usamos en esta integracion, en trello tambien debemos utlizar las plabras claves hasta ahora credas, en primer lugar como primer paso antes de poder tracker debemos anotar ptoyectos y clientes. Proyectos es una configuracion de toggl donde nos permite agregar proyectos que estamos trbajando asi de esta manera cada proyecto puede ser para un cliente en especifico. de esta forma tenemos que cambiar clientes por habilidades y asi emparejar nuestros dos nombres claves. Por ponerl de manera facil en proyecto van los nombres de los proyectos que utilizamos en el cuaderno digital y en clients van las habiliades que utilziamos en trello. Es decir que con estas dos palabras emparejadas podemos referirnos al uso de una hailidad en un proyecto. Entonces cuando hagamos uso del track del tiempo ya tendremos prederterminados diferentes proyectos con sus clientes osea habilidades. esto es conveniente por que podemos poner los nombres antes de empezar a ejecutarlos de modo que cuando empecemos de verdad tan solo sera escoger uno de los emparejamientos que ya tenemos.
+
+Cada vez que tengas un nuevo proyecto u habilidad es necesario que vuelvas a esta parte y agregues el pryecto con su habilidad emparejada. De igual manera se puede colocar un color y otras caracteristicas opcionales que no vienen al caso cuando utilizamos la metodologia de HK porque nuestra mision ya esta cumplida tenemos las piezas acomodonadose de tal forma que se inteegren las aplicaion de manera suave.
 
 ### los nombres son importantes
 
-Los pricipales campos donde si osi debes entener de los nombres
+Los principales nombres que demos tomar en cuenta son lo que se consiguieron en los pasos del circuito anteriores, es decir en el libro digital tenemos los nombres de estos proyectos por lo que deben ir escritos iguales incluso diferenciado las mayusculas de las minusculas y mejor si no se utlizan letras que tengas signos especales, como se sabe este es solo un nombre nickname para cubrir el veradero nombre agregando la capa de privacidad. Todos estos nombres estan tambien agregados como columanas del tablero de habilaides de trello. Esas habilaides tiene un nombre y deben ser utilizadas igual de manera literal para cuando se copia en la parte de clientes en toggl. Cada uno de estas configuraciones antes de utilizar la emtodolgai HK nos permiten mantener el flow de concentracion en lo imporante y no en el planificar, organizar los proyectos.
 
 #### cada proyecto comparte nombre y cada cliente comparte nombre con la habilidad
 
-Intro de como compartir habilidad
+Cuand empieces una activiada solo falta buscar la pareja de royecto habildiad que hayas escribto anteriomente. Mira que lomas simple es escribir los mas sencillos. Es decir escribir es una hbailidad qe todos los proyectos van a llevar por lo que estaria bueno escribirlo con cada proyecto, luego administrar es algo qe tiene varias tenicas por loqe se van utilizar igual por eso cada proyecto debe terlo y sin darnos cuenta ya tenmos 4 parejas para empeazr
 
-Conslusiones de compartir nombre y ahbilidad
+Con el paso del tiempo tendremos mas parejas de nombres pero lo imoprante es seguir el orden porque primero esta definir los nombres luego emparejarlos.
 
 #### luego cada numero # comparte una tecnica y cada [] comparte un tasklist
 
-Intro de como utilizar la metodoiga HK
+Algo imporante que vamos a ver cada vez mas seguido es que tenemos qe utilizar los mismos nombres que otras aplicaciones. en este caso ya no se trata de un nombre sino de un numero porque cuando creamos una habilidad dejamos a personalizar el numero de la tecnica, entoces en el proyecto se utilizo primero esta tencica luego esta y asi sucesiavemte esto deja un lista ordenado de numero que pueden identificar una tencia sin tuilizar su nombre. Una vez entendemos que este numero viene de las mismas tajetas de trello veremos que es en su ittulo donde se encuentra con el signo de #000. este numero es numero que uitlizamos en la descripcion del track como primero paralara antes que anda , esun orden qeu ayuda a la integracion. entonces en cada escripciond  cada trac k que hagas debes identifcar que tecnicas se estulizando con este numero y lueg a lado y ya con el signo de [] debe al centro estar el numer del cecklist de la misma tarkjeta que se esta trakeando. Otra vez gracias a la integracion de varias aplicaciones es necesario entender que los checklist son como numeros para trello y a medida que avanzamos vamos tachando estos numeros a apesar de agregar mas numero no afecta elhecho detener siempre lo completados. Por eso debe ir el numero del chceklist que se esta realizando jusnto alnumero de tarjeta que utiliza una tecnica. Ya con esto esta listo para presion empezar sin antes claro dejar una descripcion coloquial sin reglas pero const que debe ser justo despues de color los dos numero identificativos.
 
-Conslusiones de como detallar la tecnica
+Existen otras formas de identifca aun con mayor presion de que tipo de trabajo estamos realizando, con os llamdos tags que utilizaremos mas adealnte. Ademas tambien existe otro tipo de anotacion donde no es necesario el numero del cheklist pero sii cambian un poo las regas, eso igual es una adptacion a las circunstacinas que algunas tecnicas representan en la percepcion el tiempo. Todo lo que tengas que ser anota en tiempo debe ser anotado. Por eso incluso asi existe una manera mas de anotar el tiempo del caul sera nuestro enfoqude en la siguiente acapitulo.
 
-Conclsusiones de como poner nombres
+De esta manera el togll queda integrado y ademas de ser una visagra imporante para el funcioanmiento de todo la metodoogia HK, es en estas configuracion que con nombre identificadore cremos un puente conceptual del caul podemos hacer uso despues para recupera los datos que necesitamos a la hora de lrelacionar tenicas, habbilidades y proyectos con sus tiempos de ejecucion
 
-Conslusiones de como organizar nombres
+Toggle por eso cumple con los rquisitos para estar en la metodolgia HK por tener una variedad de herrmaientas que al ser abiertas al uso del usuario se puede adaptar y muestran su flexibilidad para lograr sistemas ed roganizacion que viene justo para el caso en que buscamos domniar la practicadelibera. conociendo asi de esta manera de forma detallada como se ocupo nuestro tiempo cuanle sonlos proyectos que mas tiempo tardan y que hablides nos cuesta reducir su tiempo de ejecucion, esta informacion parte brindada por toggl y las otras aplicaicon son informacion qe nuestro crebro puede utlizar luego con el fin de tomar mejores deicisones sore la marcha de un poryecto y tambien paramostrar resultados a quien nos paguen por un trabjo brindando informacion en tiempo de real del avance en medidas de tiempo.
 
 ---
 
