@@ -8,27 +8,21 @@ En este paso aprenderemos que todo esto es parte ce administrar y organizar tus 
 
 ## PREPARA LAS APLICACIONES NECESARIAS
 
-Algunas aplicaciones son mejores qe otras pero toggl es toggl y es la qe escogimos por su api
+Algunas aplicaciones son mejores qe otras pero toggl es toggl y es la qe escogimos por su api que nos permite hacer la integracion a travez de codigo web entonces podria decirce que hay mejores trackde tiempo pero podriamos discuitr todo el dia hasta llegar al acuerdo que lo que necesitamos es que tenga ciertas caracteristiacas, que tracke el tiempo y eso lo hacen todas. por utlima razon toggl se ajusta a los requerimiento de al metodologia HK entonces tres contra cualquier otra razon son peso suficiente para adaptarse a una nueva herramienta si es necesario. Veamos ahora que facil es crearse una cuenta y empezar a realizar los trackeos contiene un pas importante mas que seria enfocarnos en adivinar donde pasamos mas tiempo trbajando, asi descubriemos que tipo de app de toggl necesitamos.
 
 ### toggl la aplicacion en todos lados
 
-Como toggle aplica a esta situacion si se adapata los nombres
-
-#### descargar las aplicaciones necesarias
-
-intro de descargar app int
-
-Conslusiones de como descar las aps dnecesarias
+Como toggle aplica a esta situacion, trabjas desde la computado en dise;o y demas y tambien tiene un escritorio para escribir estonces podemos entender que la aplicacion de esccritorio es tu indicada, en el caso de que necesitemos salir y estar conectados desde un celular o tablet entonces la aplicacion es tu eleccion, de todas maneras poco a poco de veras adaptandomete a la esencia de sacar la aplicacion y empezar con un track. Por el moemnto viste que solo necesitas poner un nombre y en descripcion tenemos algunos configuracion que lograr con los nombres identificadores que integran todas la aplicaicones.
 
 #### conocer las configuraciones como pomodoro
 
-Intro de congiugraciones app
+Algunas configuraciones son imporantes para mantner el flow de nuestro trabajo por que no siempre se logra lo planificado, es decir si plnifico una hora puedo acabar en 45 min y 15 en descarr lo cual no es una medida orrecta puesto que con un track empezamos y terminaos haciendo click en play y pausa. Entonces aveces para manter el flow requerimos de diferentes configuraciosndpropias del toggl, una de ellas se llama pomodoro y lo que hace al igual que el metodo pomodoro es definir un tiempo de concentracion en el que sepas que vas a dedicarle todo tu focus. de esta manera los descanso entre pomodoro y pomodor no se registran y se puede ecir que llevar a cabotus tareas se puede dividir en pomodoros siendo asi 4 pomodors un calclo de multiplicar 4 por los minutos que escogiste de focus, Eso es algo personal que debs averiguar vos sin ser muy humilde ni muy pretensioso, otro suceso imporante es olvidarse que existe toggle para eso existe configuraciones como abrir aplicacion al inicio , mostrar detale te de aplciaicon en todo moemnto y recordar cada tanto minuto que necesitas trakear el tiempo. Por Ultimo otro evento es olvidarse de apagar el trackpor lo qe toglle nos permite preguntar estas activo cada vez que vea cero actividad en nuestra app, es decir que pasn los minutos como trakeado pero no se ve activida d del amuose y asi way .
 
-Conslsuines de conocer configuraciones
+Conslsuines de conocer las configuraciones es que podemos ser mas eficiente sy utlizar toggle esqivando todos los obtaculos que son trackear el tiempo de forma correcta, no importa los segundo tanto sino dar un formato correcto de tiempo en el moento correcto, es decir realmente empezar con el click y termianr y poner pausa eso ayuda las confurgauracione sy el habito se va formando
 
-Conslusiones de como toggl es la herramienta
+Por ende toggl es una heraienta que te permite trackear el tiempo y te ayuda a no ser descuidado pero con el tiempo solo logras que el habito sea contunuo que cada cosa que quieras hacerlo lo trackeas y ahi es donde toggl deja de ser una herramienta sino un estiorbo porqe tener que escirbir cada vez y por cada insignificaion puede romper el flow. por eso es necesario saber que tecnica trackeaer.
 
-Conslusiones de las aplicaciones necesacioas para guncionar
+Por ultimo escoger toggl no tien su descventaja en el moento que queremos tracker cosas complicadas puesto que exite la posiblidad de agregar tiempo de manera mnual despues de que sucesio el vento, es decir que si de necesitar un cronometro podemos anotrar los resultados del evento y luego esto en un timepo mas calmado agregarlo de manera manual, siempre y cuando sea el mismo dia sino no tiene sentido el habito de la metodologia HK y toggl apoya totalment esta metodolgia pues mantenie el flow y nos da las herramientas que neesatamos para completar nuestro circuito de pasos.
 
 ## ORGANIZA PROYECTOS CON CLIENTES QUE SON HABILIDADES
 
