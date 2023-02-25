@@ -70,21 +70,21 @@ Los templates son la parte activa de las configuraciones del metodo HK ya que a 
 
 ## LAS AUTOMATIZACIONES
 
-Esta parte es un bonus pero ayuda a que el flow no se interrupa con la metodologia HK
+Trello tiene una funcionalidad dondepodes automatizar ciertas tareas, entre ellas tenemos la que nos importa que es una manera de reducir el error humano haciendo qe se automatice, en nuestro caso nos concierne automatizar el incio de fecha y el fin de fecha de aceurdo con el label qe pongamos, como teniamos tres label el de planificandoc aundo solo estamos organizando nuestras tecnicas, luego estan comenzando y termiando. los caules debemos automatizar con las herramientas de trello. Para ello en cualquier tablero entramos a automatizaciones, hacemos click en nueva automatizacion personalizada. luego encontramos el parrafo donde dice when label this make due date and star date para cada uno de los casos, asi de facil. Un ultimo consejo seria copiar esta automatiacion a travez de todo los tables, recuerda qe es algo qe debes hacer cada vez que crees un tablero. copiar la cofiguracion con un click.
 
 ### Configurando mi trello para qe me ayude
 
-Esto es como llegar a este fecture de trello
+Esto son las automatiazciones que queremos para la metodologia HK pero se puede imaginar otra clase de personalizaciones qe tengas en mente, lo imporante es no mezclar los numeros con otras columnas pero si podes tener otras columnas qe no sean proyectos donde dejas tarjetas lo cual son opciones pero enrealidad puede afectar el rendimiento ya que perdemos foco y el trello es una herramienta qe ayuda que nuestro flow no se detenga para hacer organizacion, ultimante sus actulizaciones han incluido shortcut para manejar todo desde el teclado. Otras ventajas como plug in que complmentan son tanmbien eprmitdos. uno qe se utilizar e los que muestras los checklist con estilos encima las cartas. Es un mundo aparte trello porque tiene muchas herramientas para seguir personalizando y ademas trabjar en equipo.
 
 #### Cuando puedo empezar con un click y termnar con otro es eficiencia
 
-Intro qedebeo hacer para automitzar label con date ude
+Las diferentes maneras que tiene trello de compartir un borad tambien te sirven como base para integrar mas persona ala metodologia HK dandote ceunta que su esencia de trackear el tiempo solo te permite tomarmejores decisiones entonces la planificiaion y organizacion no hacen al exito sino que hacen que tu mente interprete las situaciones, si semejante ventaja la puedo obtener copiando unas cuatnas reglas entonces podemos edcir que es una metodologia de eficiencia, puesto qe no abarca tiempo y si deja un historial queme sirve ademas de ser integral a cada proyecto, con posiblidadd de personalizar mas con la ayuda de trello e inclusio de trbajar en equipo, Este panorama potencial de lo puede lograr ser el uso corerecto del trello hace que se habra muchas posibildades y soluciones a los diferentes obstaculos que pueden suceder, esto gracias asu simpleza puesto qe adaptarse a partir de una base es una forma de evolucionar.
 
-Conslusiones de comomo automatizar con un click
+De igual manera podemos pagar a trello y tener aun mas herramientas de uso qe podemos integrar o si es una necesidad podemos abrir otro trello qe tenga otra organizacion e tambien nos sirve, con lo qe la metodologia HK no se interpone en el flow qe tengas de trabajo poruqe no te pone condiciones sino qe te da la habilidad de algo nuevo. qe es detallar tus habilidades en tecnicas y asi en mas detalles pesto qe se representan atravez de cada uso en el tiempo siendo cada tecnica diferente aunqe sean la misma dando aun mas datos para sacar una conclusion sobre nuestra practica.
 
-Conslusines de las configuraciones
+No es dficl de aprender a hacer esto por lo qe para el siglo 21 deberia ser algo tan sencillo como manejar una red social por eso debemos penasr que estas configuraciones son con el propoisto de hacer mas eficiente nuestro trabajo y asi destacar en el aspecto mundial sobre qe tenemos algo qe los demas no temos mi hisotorial de practica deliberada.
 
-Conclusines de las automatizaciones
+Las practicas deliberadas son lo mas imporante entonces siempre qe encuentres la oportunidad de podesrautomatizar algo contunuevo sistema de roganizar debes hacerlo por qe eso si es parte de tener la filosfia HK, que el flow de nuestro trbajao no se vean interrumpido por teebr que organizar y planificar y mas bien solo enfocarnos en ejecutar lo mas rapido posible usando sabianmete nuestro tiempo.
 
 ---
 
