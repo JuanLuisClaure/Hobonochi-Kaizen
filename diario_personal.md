@@ -22,19 +22,19 @@ Que vamos a necesitsar bueno si un buen dia de planificacion y un buen dia de en
 
 #### contar lod dias que vas a practicar
 
-planes para la realizacion
+Segun tu manera de planificar debemos tomar en cuenta cuantas hojas vas a necesitar obviamente si utilizas una plana de una hoja por dia tenemos el numero de 365 al a;o pero debemos tomar en cuenta otros caminos, como el metodo del a;o de 12 semanas donde se planifica para un plazo de 4 meses 3 veces al a;o otras maneras de planificar deben existir porlo que es mejor tomar este paradigma de cuantos dias estas dispesto a realzar el emtodo hk por primera vez, entonces para facilitar el rango toemos una semana como la maginitud minima de tiempo que puedes activar esta metodolgoai en tu dia a dia. Es asi que coo primera etapa tenemos los dias compromitidos.
 
-conclusines de manualidades
+Entonecs de esta manera pueden haber cambios en nuestra percepcion de como utilizamo la metodolgia por lo que capaz queramos aumentar o dimniur cosas por lo qe esta adaptacion por el tiempo qe uno se compromete es idel para ser mas franco con el trackeo de nuestras habilidades. Ademas tenemos que agregar otras paginas para complemtar, esto lelgaria hacer la parte del dia a dia por lo que nos falta la parte de semana a semana
 
 #### agregar separadores y palnificadores
 
-originalidad y demas
+Tenemos ya un numero de paginas que utilizar para el registro diario una pagina de cada hoja es decir que cuatros hojas con 7 paginas ocupadas y una libre, esta libre sera la caratural de cada seman es decir que aca viene la semana y el todo list de esta ssemana, pero ademas podemos agregar una hoja mas para actuar de planificador osea las dos paginas para planificar las 7 dias de esa seman tipo na agenda y por ultimo una ultima hoja que sea la tapa posterior de la semana donde la dejaremos para garabatos y planificaciones entre la smean como toamdor de notas. Con todo ello tenemos 6 hojas por semana a lo que 2 son separadores, estos separadores representan la semana y son mas de comapritr en cada semana un planificacion una vision mas general de la sitacion ademas de contar con la genda habitual los todo list son imporantes si necesitas otro tipo de separadores como mensaje motivadores libre de hacer. ahora solo estamos sacnado la ceunta
 
-conslusines de como temerinar esto bien
+La cuenta es de este numero de hojas por semana multiplicado porlas semans que deseamos estrablecer esta metodologia puden ser cuatro semanas o incluso tres luego vos vez como son tus capacidades por que es un comprimiso y tu cuaderno solo se llenadara de mas hojas sin importar silas fechas coinciden por lo que ahora vemos que al crear nuestras hojas estamos comprometendonos a una actividad cierto tiempo y tachando paginas por dias pasados.
 
-conlsuones ede como crear un interface
+Centro de la conversacion es como un solo libro se va formando en algo personalizado osea un reflejo de tu alama pero al mismo tiempo solo tiene una funcion utilitaria, no es un libro de poesis es un libro que deja el historial de tus dias por lo que pueden ser muy humillante aveces escribir que no hiciste nada rpoductivo pero es lo que hiciste y eso o convierte en especial. por lo que crearlo con tus manos te comproete a no botarlo o dejarlo en blanco csino a completar lo que emepzaste sino para que tomarse todo este tiempo.
 
-conlsuiones de por es un diario
+Aclarado el asuto filosofico vemos que haer un libro es tambien un hecho medio de fabrica y tener algo artesanal es bonito pero queremos una metodologiaque nos ayude a repeditr este proceso sin quitarnos el flow de nuestro enfoque en crear nuestros proyectos por lo que ahora vemos alog especial. El incio de tomar estar paginas y darles un funicon de aueerdo a su forma
 
 ## ES UNA COPIA DE HOBONOCHI
 
