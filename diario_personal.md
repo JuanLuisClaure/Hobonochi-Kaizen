@@ -46,6 +46,9 @@ Nuestro hobonochi solo es la misma hoja que escogimos para ser separador de sema
 
 ### Que es escribir todos los dias
 
+Otra de las hojas que respondera a ser un separador de la seman es la que tenems al finalizar las 4 hojas para los dias de la semana. Aca tambien podemos utilizarla como planificador es decir capaz aca podamos agregar otros metodo por lo que utlizaremos una hoja blanca de bond para darle esa rigidez y podamos escribir tranquilos y la utilizaremos a convenicenia de cada uno. Por ultimo tenemos una pagina de las 4 hojas para la smena que nos sobra esta la podemos utilizar como primer plana despues de la planificacion semanal y sera donde iran los objetuivos en tipo todo list que debemos ir cumpliendo de forma personal, como desafios. Estas hojas recomiendo que sean de olor cafecito y otroa textura para diferncia de las demas y asi tenemos ya una seman para poder escribir todos los dias.
+
+Repetimos esta accion las vez qe semansa hayasmos escogido realizar la emtodoliga HK por lo que ya tendremos el numero de paginas necesarias ademas de su orden y su defnicniones como estamos copiando de bonoochi estair bien qe cada seaman utilicemos el mismo template para tener coherenciad
 
 
 #### un numero, un dato que ejemlepfica tu dia
