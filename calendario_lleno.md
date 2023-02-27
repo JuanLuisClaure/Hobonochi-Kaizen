@@ -14,17 +14,19 @@ Por el momento entendamos el calendario de google como un visualizador de nuestr
 
 ### todo el trabajo lo hace el codigo
 
-Otrosas
+Otros son los procesos que hacen que todo tus practicas deliberdas se guarden en tu calendar deforma automatica, es un monton de codigo que se encarga de eso, por eso tu deber es poner play y stop cuando empieces tu practica y si tienes algun evento relacionado que no puedes obtener en el toggl porque no estan programadas las configuraciones par eventos que no son practicas deliberadas, en ese caso es cuando ebes hacer uso de tu agenda anotas un simple cuando empezaste y cuantos minutos tardaste en termianr y una descripcion. Luego antes de que llegue las 11 de la noche veras como el codigo hizo su trabajo y te tocara hacer e tuyo complmentar los epscion vacios del dia con los evenos que anotaste en tu agenda, asi de facilporque l codigo que hice se enarga de automatizar tus practicas deliebras y ya es medio trabajo pesado menos para vos.
 
-#### algunas sugerencias a la hora de acomodar tu calenadrio ademas de poner los task de tu rutina diaria solo que aveces hay qe agregar las actividades del diario y otras veces debemso agregar detalles a los task cumplidos cada mes, esta seria la foram de virtualizar el diario
+Existe un caso donde tiene el toggl para trackear una practica deliebrada pero por N motivos no puedes hacerlo entonces puedes agarrar un cronometro y hacer de toggl anotar en tu agenda y manualmente actulizar tu toggl pero eso lo veremos luego. Lo mas frecuente es simplemente cuando estas trbajando enceder el toggl y cuando no tengas dispositivos a tu alcance es po que debes anotar en tu agenda ese evento cual sea cual fuerese. para luego actulizar en tu calendar.Eso es la mtodologia HK tener autlizado tu calendar con todos los eventos del dia sin importar si estan planificados o no solo tomamos los tiempos actulizamos el calendar y acumulamos dias para crear una historia.
 
-Es importante qe agregues los eventos aparte y eso notiene mas
+#### Algunas sugerencias para cnfigurar el google caendar deacuerdo ala metodologia HK
 
-Conslusoines de agregas eventos parte
+No hace falta mucho para tener un calendario pero es bueno e importante conocer la aplicacion y sus atajos sus diferentes layouts es descir las diferentes formas de mostrar los eventos. porque al ser un visulizador es bueno enenter donde se fue el tiempo cuando lo vemos en nivel mes o cuando queremos saber a detale que hacemos cada semana opdemos seguir nuestro avaces smeana a semana de todos modos no existen muchas configuraciones que afecten a la metodologia. mas que tener un solo calendario sin importar que tengas otros, puesto que este aclendario esclusivo llenaran tus dias porque se supone que esta banco, existe igual algunas opcines de dias festivos para haceerte recuerdo todo estoesta bien porque son notas en la cabeza y no tiene un duraicon en el dia asi qeu pueden aplicarse.
 
-Conslusiones de qe lo hace el codigo
+Ojala que se sigan incorporando mas caracteristicas a tu calendario pero en la mtodologia nos basamos en ser lo menos intruisivo al flow de la concentracion por lo que si tenemos qe ver una vez al dia unos minutos y una vez a la semana bastante tiempo no afecta en nada nuestroa ajecucion de nuestros planes.
 
-Consluisnes de qe es importante la visualizacion
+Es bueno entender que estosolo es una configuracion de habitos y de usos de aplicaiones que juntos graias a unos tips pueden estar integrados por nombres identificadores. DEtras de todo esto esta el codigo que hace que cotodo se integre haceidno tareas que manualmente serian un trbajo arduo de mantenr actulizado. y encuanto a la flow de la concentracion es que no hay nada mas horrible que hacer algo imporante que no debe ser hecha ero es hacer algo urgente que si imporate y si tu organizador de planes se interpone en ese camino mejor es dejar lo y empezar con la meodologia HK que tan solo quiere mostrarte.
+
+Perdidas son los dias que no aotas algo en tu calendar asi que no te equivoques no significa ser productivo ysino ser honesto y ni tan arrepetido ni tan encantado de tu vida tan solo anotarlo es algo que sin embargo algo tan simple puede ser tan poderoso para tu reflexion y dejar de beber pudee que lo dejes de hacer pero solo cuando llenes tu calendar con l ayuda de la metodologia inlcuso mejorar en tu practica deliberada y si quieres ser un campeon en lo que haces entender como llegaste ahi. POr lo que debes estar efliz de ompletar este primer circuito. al configurar tu metodoglai HK en tan solo unos dias ademas de crear algo que va estar integradoa  tu vida. Por eso debes decidir que esto es arte de tu vida y contarle todos tus fiestas y tus resacas para que saepara los datos de tu ser tan fiel que puedas reflexionar enrealidad alverlo con otros ojos que te dan el tiempo.
 
 ---
 
