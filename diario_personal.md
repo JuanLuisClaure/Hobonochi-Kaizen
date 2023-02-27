@@ -48,18 +48,17 @@ Nuestro hobonochi solo es la misma hoja que escogimos para ser separador de sema
 
 Otra de las hojas que respondera a ser un separador de la seman es la que tenems al finalizar las 4 hojas para los dias de la semana. Aca tambien podemos utilizarla como planificador es decir capaz aca podamos agregar otros metodo por lo que utlizaremos una hoja blanca de bond para darle esa rigidez y podamos escribir tranquilos y la utilizaremos a convenicenia de cada uno. Por ultimo tenemos una pagina de las 4 hojas para la smena que nos sobra esta la podemos utilizar como primer plana despues de la planificacion semanal y sera donde iran los objetuivos en tipo todo list que debemos ir cumpliendo de forma personal, como desafios. Estas hojas recomiendo que sean de olor cafecito y otroa textura para diferncia de las demas y asi tenemos ya una seman para poder escribir todos los dias.
 
-Repetimos esta accion las vez qe semansa hayasmos escogido realizar la emtodoliga HK por lo que ya tendremos el numero de paginas necesarias ademas de su orden y su defnicniones como estamos copiando de bonoochi estair bien qe cada seaman utilicemos el mismo template para tener coherenciad
-
+Repetimos esta accion las vez qe semansa hayasmos escogido realizar la emtodoliga HK por lo que ya tendremos el numero de paginas necesarias ademas de su orden y su defnicniones como estamos copiando de bonoochi estair bien qe cada seaman utilicemos el mismo template para tener coherencia.Otro consejo es que tengas todo un equipo par transportar tu diairo tal que sea tu equipo esencial a todos lados. puede ser que trabjaes mucho en la calle entocnes capz una maderita para escribir sobre una superficie dura te sirva y asi tienes que ir poiendo el hobnochi estilo aca da uno de tus paginas y acostrumbrase a llevar cnsgio un diario para escirbir todos los dias.
 
 #### un numero, un dato que ejemlepfica tu dia
 
-si un numero dice mucho en cluster y atributos
+Cuando intentamos tomar notas de nuestros dias aveces es bueno tener esta acciones personales que nos ayuden a recordarnos ese dia. muchas personas como forma de relajacion hacen dibujos abstractos como labertito o flores, si queremos tener esta habilidad podemos porponernos poner un dibujo cada dia y auqnue sea malo nuestros dibujos le damos un lugar pra practicar por que le grega un valor a nuestro diario, no siempre es un dibujo aveces es una poesia, una reflexion o una foto incluso si es lo que desea date tu espacio para dejar un rastro de tu dia asi como una se;a para ti mismo en el futuro de como te sentias ese dia, capz esun consejo o una decison capz esta encriptado o capaz con palabras sencillas llevan un significado que solo vos entenderas.
 
-Consluisones de etaditicas de cluster y atributso
+Ahora esto se convierte en el arte hobonochi, el tener esta adiciona dejar un rastro diario y llenar un libro con solo las palabras de uno y su planes y sus todo list y demas formas de planificacion de llevar la ceunta o de toamr lista de quehaceres.
 
-conslusones de escribir todos los dias
+Gracias a copiarnos del estilo hobonochi ahora tenemos un guia para que caa dia sin necesidad de cereatividad simplemente entremos a llenar la pagina que nos toca. Ademas de simplificamos todo de tal manera que tenemos lo que encesitamos ni mas ni menos. esto es para enfocarnos en el arte de escribir un poco de nosotros cada dia. Es nuestra ayuda a nosotros mismo y a cumplir nuestro compromiso al crear esta agenda personalizada.
 
-conslusiones de tomar logros semanesles
+Luego de tener el hobnoochi podemos ir mejorando a media que nos vamos acostumbrando a su manejo en incluso podemos imprimir las misas paginas para tener un formatao bien limpio tipo impresion. lo que siempre diferencia esat seccion de la de paginas por dias de la seman son sus colores de hoja y sus texturas para que sea unos separadores. en las hojas de uso diario veremos que no entra una habilidad hobonochi porq ue cada dia es especial y unico asi que debemos de utiliza rotra forma de crear y lo veremos en le siguiente subtitulo
 
 ## ES UNA COPIA DE BULLET DIARY
 
