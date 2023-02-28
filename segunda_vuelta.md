@@ -48,45 +48,45 @@ Creada esta habilidad pasamos el lado facil por que debemos identificar las tecn
 
 #### pose de la moonta;a creo qe selllama
 
-pero epecemos con algo inicial
+Ahora nos toca poner los templates de tecnica, poque hacemos de esta forma es poque al final de cuentas estas tecnicas las volveras a usar de una u otraforma por eso son tecnicas y mejor es utiliazr cada tecncai consucontexto. Pueto que ahora tenemos que hacer os saludos al sol, es obvio que debemos investigas y hacer uso e nuestro libro digital. Todo eso para llegar a tener el nombre de las tecnicas y vemos que el tal llamdo saludos al sol son un conjuntos de poses y cada pose tiene su nombre por lo que podemos decir que esa es la tecnica. Ahora vemos el problema como registrar un timepo de poses que su tiempo de ejecuuion se basa en respiracion. Para eso tomams lo siguiente mas grande que seria la practica de un circutio de todas las poses siendo una pose del sol completa . Esta peude ser nuestra medida auqnue primero continuemos con lo basico que es colocar el nombre de cada tempalte con el nombre de cada pose
 
-consluiones de aca
+En este paso utilizamos las mis metodologia pra colocar el titulo, es decir como es un template solo debe ir el #000 para el numero de uso, luego el nombre en mayusculas que seria la pose de la motna;a y luego una descripcion here para describir al hora del suo. Esta es su primer caractestica que todas deben compartir
 
 #### luego viene de la monta;a pero saludando el cielo
 
-que todomos puedes
+Auqnue pasemos a la siguiente tarjeta es por el hecho que debo continuar explicando y espero que entiendan que cada atributo que estamos poniendo van en todos los templaes auqnue solo esten escritos en esta tarjeta que nos toca ahora que seria una variacin de la premra con un agregado. Denuevo su nombre debe estar en el mismo formtato #00 mas el nombre y con descrbire here para que luego al ser usasa el tempalte cambiemos ese descrbie here por el contexto donde esta siendo usada. De esta maenra lo siguiente que veremos que todas las tarjetas tempalte encesitan es la descripcion, ne este caso es un buen momento pra explicar coomo es el uso de esta tecnia como un recordatioro para cada ve que queiras volver. Toamndo en cuenta que todo lo que este debajo la division horizontal sera guardado y lo de encima se copiarda al calendario. Es decir el link al proyecto el titulo y la describcion donde se escirebne cada ejecucn del dia sno un template y seran cambiados luego pero se cambiaran con el tiempoemcbaio lo que queda abajao se perdura en el tiempo pero no se copia al calendario.
 
-consluiones de aca
+De esta forma debemos explicar en cada descripcion como se hace posible esta pose y las demas en sus decricoiones correspondietes, Tambien algun cnsejo que sepas y queiras agregas con el tiempo veras que este lugar en el temlate es tu bibliotecas de tecnicas entonces a mas tecnicas y mejor detallas tengas mas pdras navegasr y decidir cual te conveine . Y asi way.
 
 #### depsues viene la de dejarse caer todo abajo con cabeza al suelo
 
-que todo modos sigue
+Continado con la ocnfiguraciones de estos templaees es bueno mientras vamos actulizando los titulos y loas decricones de los nombres de las poses nos demos cuenta que estas tecnicas tan solo son pate de todo el yoga ashtanga por lo que es obvio que estamos tomando un camino de vanczar de apoco por que e yoga en suocnjunto ceunta con mas de 100 poses que se deben completar en hora y media y ese nivelal que queremos llegar empeicza desde abajo. Es decir que ahora tenemos que dominar el saludos al sol, pero cuando nos toque la parada de mano capaz dejemos de hacer saludos al sol para practicar mpradas de mano o quizas mezclremos las tecnicas para entar nuestra practica. Esta filosofia del yoga es tan aplicable en la metodolgoia que da sentido pues que la personalizacion es lo que hace que sea un practica fluida. De esta manera entendemos que cuando dejamos en el titulo un describe here y en la describcion un lugar de titulo y descriocion para cada ejecucon lo que queremos hacer es dejar un espacio para expresar el contexto denuestra practica para que se entienda de que manera estamos utilizando la tecnica.
 
-consluiones de aca
+Osea cuando hacemos uso de una tarjeta de template entra en la columa de nuestro poryectos en este caso deben estar debajo del proyecto de saludos al sol pero luego si tenemos otro ejercio que debemos hacer como salotos en cuerda es otro poryecto y emrece otros tempaltes de tecnica. Y si un dia decidimos utilizar una tecnica en un potyecto que era destianda a ser usada en otro proyecto puede salirnos cosas geniales como un saltarin de cuerda que hace poses de yoga mientras salta. Esto quiere decir que tenemos controlde las tecnicas que aplicamos y de como explicamos en el titulo y la descricion el contexto donde a lo largo sirve de explicativo de como lo hicemos funcnonar o recmonedacion de no volver a juntarlos. Sera como un material para leer cuando entre al abba;o.
 
 #### despues viene la misma todo abajo pero levantando cabza lo maximo a frente
 
-sigue con otra explica
+Entonces hay una peuqe;a diferencia a los templates que hciemos en la primera vez que utilziamos el trelo, esta vez estas tecnicas no tienens checjlist por que no se aplican en el tiempo sino qe son instantenas y difieren de cada contexto. Por lo que no es lo mismo y no merecen tener un checklist que solo es un detalle que na grega nada al flow mas que obstaculos. Es asi que en este caso las tecnicas son mas libros donde vuevles a tneder y tanbien pueden a lelgar a ser mas si tu personalizaicon creativamente lo permite pero en su base idiologica no necesita mas checklist. Esto no quiere decir que tenga passo apra realizarce pero es algunamaenra mejor tenerar descritas como pasos a cumplr que como checklist ya que como vimos antes los checklist de esta metodolgia son tres y agrupan ciertas cualidaes que no aplican aqui.
 
-consluiones de aca
+Ahora sin checklist todavia hace falta algunos caracteristicas mas, como el cover no es parte de a metodologia entonces puedes utlziarla si deseas y le vez uso. OTro es los label, pues estos siguen siendo algo importante pues tiene los dos accionadores de atuomtiacion que son los label emepzando y termiando por lo que si debes agreagarlos de la siguiente forma, Todos las tecnicas que vayas a utlizar en una ejecucion deben estar cooordinadas entre si para empezar igual ya que las contien un contexto. Esto es imprantate por que una vez que terminen su contexto pueden volver a empezar pero con otro contexto.
 
 #### despues esta salto atras y cobra o perro cabeza arriba
 
-algo re fail ce hacer
+Para tener un ejempllo de lo dicho podemos entender estas tecnicas como parte del yoga ashtanga osea que nosotros noestmaos aplicando al practica completa sino que nos vamos a enfocar n doinar estas poses par contnar con las iguente diifucltad y asi way.Etnonces en contexto todas estas tecnicas a pesar de ser del yoga ashtanga en este moento son del la practica de dominacion. Entonce ya tenemos el contexto pra nuestra tecnicas y donde dice describe here en cada ditutlo al la hora del uso le vamos a poner contexto, la ractiaca pra dominar los saludos al sol. D es forma cand emepcmeos haer esta actividad sera nuestro dia uno. Dediqueoms un pensmaiento mas en este atributo meintras continuamos creando los templates con sus nombres de cada pose
 
-consluiones de aca
+Cada pose es parte de una conunto que es el saludo y osotros debemos hacer 108 saludos, entonces podemos decir que el nombre del ejercio es 98 saudo al sol. para eso repetimos 108 vecs cada pose pero en una secuenciaia rigida que debemos cumplir. Esto ahce que debamos tomar estas tecnias que estmaos esribiendo como un conjunto que van a ir de la mano hasta quee lelguemos a las 108 seguidas. Ahora ya tenmos un conexto de empezar y uno de terminar. Puesto que sabemos que van ir juntas las tecnicas y eso es empezar el dia que ejcutamos ese ocnjunto es el dia uno y capaz ese dia solo lelguemo hacer 2 de las poses y ese es un dato que debe ir anotado en la describicon que va cambiando cn cada ejecucn con su titulo pegajoso obvio. El dia que termina estos ejerccions en conjunto sera el dia que lelguen a los 108. pero como sabemos que eso puede nunca llegar mejor acalrom una meta de completar 21 dias estos ejercicios para primero cumplir con la disciplina luego veremos el numero. Neuvamente elcontexto del conjunto de estas tenica ya tiene un nombre 21 dais de saludos al sol.
 
 #### ahora levantamos cola y perro cabeza abajo
 
-tan facil qe debo escirbirlo
+Esta maenra de agrupar tecnicas es como la mtodologia HK puede indentiafcar qe estas son tecnias que van en conjunto, de igual manera otras tencias va en conjunto y no puede ser trackeadas de forma indicvidual aportando informacionutl para las estadisicas es por eso que en conjunto rpesentan mas y mucas veces se basan en repetir varias veces un conjunto de tecnias para doinar el hacer algo, tomemos el ejemplo de cortar el cabello. la teoria peude ser muy corta pero en la practica existen varias tecnica para que el conjunto que es ejecutar un corte de pelo salga bueno que deben hacerce, Nose mepezando por la tecnica de tener todo afilado y capaz apsando po la tecncia de identificar el cabello de cleinte y esta tecnica debe tener varios detalles coom tips como de cuando vez pelos puntas paradas es este diagostico y cuando veaz que es esesequedas es este otro tip y todo esto va en tu trello en al descricon que no cambia despues de la divisoin horizontal.Tememos entonces que este conjunto de tecnias que se aplican en diferentes actividades no pueden ser trackeadas a menos que las tratemos como conjnto
 
-consluiones de aca
+Y al hacer que tenga un titulo identificador como nu nombre de la tecnica y ademas un detalle que llenamos a la hora de aplicar e bueno que entanos esto y convoquemos al conjunto con la misma descricpion pues que todas comparten el cpntexto, incluso sino es de forma literal pues deben asemejarse porque no hay interparatacion de parte del codigo sino qe es una interpretacion personal de com hacemos estos conjusnto. Seguro que las tecnias para patear n tiro libre para messi en su cabeza desde como empeiza a correr aasta en que lugar del baln le da son tecnicas qu el practica en forma de conjunto y mas imporante tiene su sello personal. Lo mismo queremos lograr tener la conciencia de que estas tecnicas hacen un conjunto y si ncontraom la receta perfecta podemos tener  un conjunto de tencias que nos permitan destacar en la eejcucion de ciertas habilaides.
 
 #### del saludo b esta es la sentadatilla que nombre tendra
 
-algo mas pero cambiamos el nombre
+Ahora creo que podemos entender que amedia que fuimos haceindo estos remplates fui explicando como van a ser utilizados, este paso es como un tirual donde identificas  los nombres de las tencias y su contexto en que vaya a utilizar y sin son la primera vez que vas apoenrlos en la metodolga te tocara hacer el template correspondiente y mentras lo bacesy es lo que lo convierte en un ritual vas imaginando su uso en el futuro por lo que ya el conjunto del que nuestro cerebros agrupan las tecnicas para cumplir una accion se va formando abastanctamente ennuestra mente y conla practica deliberada que es el heco de que cada ve que ejecutemos este conjnto de tecnias vayamos ganando expertisie por lo que volvermols al trello actulizamos nuestros templaes.
 
-consluiones de aca
+De esta forma vamos entiendiendo la importancia de os templates porque son estas librerias de tecnias para la habildiad que podemos utilizar como queramos pero por el hehco de tenerlas organizadas y actulziadas con nuetrso descubiremientos experienias es qe van ganando imprtancia con elt miepo y ademas hacen que cada template maneje una sola tecnica por lo que es facil aplicar.
 
 #### y del salubo b esta es lapose del guerrero
 
