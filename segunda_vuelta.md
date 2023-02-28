@@ -8,7 +8,9 @@ Por otro lado una preosna que sabe muchos de estudios capaz quiere saber mas de 
 
 ## ALGO FACIL PRIMERO
 
-inicio de como seria agrear un proyecto mas
+Ahora viene la parte en la que daptas esta metodolgoia a tu vida diaria, es decir esta bine tener algo para el trabajo pero esta mejor ver como tu vida diaria impacta en tu eficiencia. Hay dias en los que la felicidad es rebosante y entocnes podemos no querer trabajar nada jaa pero otros dias como de depresion vemos solo salida tras el trabajo entonces estos estados de animo se reflejan en tus habitos de dia a dia. Si eres una persona deportiva seguro que no te cuesta hacer mucho ejercio pero capaz estudiar no sea lo tuyo. Es un gran ejepmplo de que tu profesion debe ir incluida de tus habitos. No todos los dias hacemos algo que deberiamos ahcer y haacemos algo que no deberiamos. Esta condicion humana se supera porque tenemos motiviaicon y aaveces al neceseidad de terminar un proyecto saca de nosotros otro tipo de energia. espor esto que si tenemos que organizar nuestro racticad liberada debemos entender aunque sea de forma relacionada en promedio que afectos de nuestra vida privada esta desarrollando en nuestra productividad un caso de obstaculo. Por suerte esta interrelacion es igual que el anterior. Bueno igual no es pero muy parecido en esencia, veamos los deatlles.
+
+Primero empecemos entendiendo que lo que ahremos ahora es interconectar nuestros habitos en la metodologia a manera de registrar como afectan las practicas deliberdas por esto tambien incluye crear un proyecto. pues necesitamos una base donde tener todo guardado y ademas podemos utilizarla como bitacora de lo que pienso seria algo muy relacionado con los habitos y es la salud. Puesto que queremos mejoras nuestra salud empecemos por debajo es decir solo intento una actividad que nos ayude a mejorar nuestro renidmiento y por otro lado vamos a reloctar datos de estos habitos. Vemaos pues como empezza algo asi. Como nombre teendra bitacora de nuestra salud en 
 
 ### CREAR UN PROYECTO PARA LA SALUD
 
