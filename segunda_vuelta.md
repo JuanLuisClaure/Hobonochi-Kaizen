@@ -120,41 +120,41 @@ Entendamos un poco esto. En el caso de ver videos educativos debemos darle una m
 
 Al igual del atnrior habidilida a mediad que vamos psadnonuevos subtitulos puedes ir cranado uan tencia con el nombre que ponemos en este subtitlo y ademas de tocas las otras cosas que debes poner para estar al dia por eso utlizo cada uno de estos parrafos para encontrar el nombre y al miso timepo hablar un poco de las caracteristicasa modo de reapso, Porque ya vimos cuales son las tres checklist en esta metodolgia, sus nombres son tres CHCK PNT SURE GOALS y METHOD HK que juntos ahcen un camino de princpio a fin juzango asi el resultado del uso de esta tencia. Primero vamos a ocuparnso de CHCKPNT poruqe al mismo tiempo qe vmaos escribiendo pasos en el describicion e l a tarjeta podemos ir poniendo los checkpoint ya como un nombre referente al paso, podria ser paso tener listo los utiles. o cuentas con cuadenro para tomar ntaso, Al ser un template debemos asguranso de color titulos qeu se puedan utilziar en todas las ocsaicones ccon el fin de tener un realto coherente.
 
-cnslusoines de este
+Con este primer checklist podemos seguir avanzando en la descripon por pasos de cada ecnia a manera de ejar un a receta de como menzar unos dos o tres pasos no basta mas qe eso, en el caso de nuestro vemos que estamos ivnetnaado las tencicas por lo que depnde de cada uno ver qe necesitas, otra de mis recomendaciones es mirar el video a velocida por 2 y en el caso de un blog encontrar un lugar donde guardarlo porque uno siempre quire volver, y asi con cada tecnica edbes describir bien y complentar con checkpoints para cada paso.
 
 #### cuando leermos un libro corto de algo queramos aprender
 
-ahora sobre un libro rapido
+Otros templates de tecnicas que podemos recomendar es diefrenciar el deleer un libro corto de uno largo por lo que los objetivos finales son diferentes para casda caso, en eje caso de un libro corto debemos tener claro que los objetivos son mas ligeros en caunto estudio por lo qe lleva un tiemo diferente e incluso aveces si tenemos la habilidad pordemos leer entre parrafos es decir saltandonos las palabras qe nuestra mente puede completar para terminar aun ams rapido, este puede ser un objetivo dado que en los primeros pasadoas de lectura siempre es bueno tener esta habida de lectura rapida, entonces luego luego podemos hacer una segunda lectura lo qe esta viene ya como tomando notas de una lectura mas lenta y precisa. Con esto yas son dos objetivos para esta tecncia y como tercere objetivo pordemo hacr una terrea leida pero esta vez aputnando los lugares con resaltador y pestanas pegables. Esto tiene un fin que tien qe ver con el segundo checklist, El de SURE GOALS es donde ponemos lo que si o si debemos lograr con esta tecnica, Por eso en el caso de leer un liro corto vemos qe tenemos tres obejtivos finales bien marcados
 
-consluones de este
+Cada vez que tenemos una tecnica template debe tener porlomenos un objetivo seguro para que sea el milestone donde la tecnica acaba, Esto es tomando en cuenta tecnicas qe se pueden trackear por que no se interrumpe el flow de concetracion de ninugna manera. Ahora estos checlist nuevos van en sure goals y ya casi completamos nuestras tarjetas template creadas del puro cererbo sin buscar nombre en ninun lado.
 
 #### cuando leemos un libro largo de algo dueramos aprender
 
-otr tecnica qe escirbir
+Con el objetivo de eejmlpificar coo de dieferentes pueedn ser dos ecnicas qe comaprten una habilidad la de leer, en este caso de leer un libro largo vemos qe nuestros objetivos son otros, Puede ser que tengamos que tener una hoajde apuntes a medida qe vamos avanzando al mimso tiempo qe vamos resaltando lo qe nos parece imporante y como seugno objetivo a manera de poder acabar un libro podemos dejar como objetivo seguro eq leemos x numero de paginas por dia pra poder acbar el lirbo, en este caso los objetivos son totalmetne dieferntes al anterior tarjtea de tecnica puesto qe son tora aplicabilidad. este detallado en las tenias en una forma granular de ir adentrandose en la ejecucion de nuestras habilidades cncocniencia de las tecnicas qe estamos uando. Incluso les ponemos el nombre y sus obejtivos.
 
-consluines de esta
+Es de esperarse que algun dia no se lea un numero de paginas qe se quiso como obejtivo final y cuando sea el momento de tacahr el cehcklist nos preguntaremos i es correcto. Es aqui donde entra el poder de juzagar. Si vez que una tecnica no teine tachada su checklist de sure gaols es una de dos o no se cumplio en la ejcucion como se esperaba o los obejtivos son inalcazables. Por eso es imporante tener criterio a la hora de juzagar como se jecuto una tecnica. Si tachamos a todas qe se cumplio exite una discrepacion con las probabilidades y si se pone metas muy altas nunca se cumple es neecasrio cambiar la redaccion. Esto es parte de ir prefeccionando la tecnica, tener objetivos cada vez mas reales pero genericos a todas las causas.
 
 #### cuando hacemos un get started de algo dueramos aprender
 
-otr tecica mas de codgo
+Como vimos ya etenemos dos de los res checklist para esteta tecnica donde aplicamos una nueva formade aprender que son los geet estated visto muco en las tecnologia pero es como el manual para hacer funcionar algo, como cuando te ens;an a manejar por priemra vez. Estas tencias son nuevas del siglo 21 y esta bien no conocerlas pero pongamola aca porque sin esta seria como imcompleto. Al igual que el utlitmo checlis del metho HK donde tenemos qeu ver i realmente la tecnica se incropora con dos factores, primero esta se incrpora cocn la metodologia HK es decir es posible tracekar, tiene su trello al dia. cuenta con todas la datos e la base y se encuentra indezda pra las estadisticas. si es si entonce spdemos tacar este cheklis de integracion con l a metodologia misma.  por otro lado esta tecnica se integra con las demas tecnicas usadas en contexto,  puede qe sea una tecnica qe roba protagonizmo haciendo qe sea infieiciente por lo qe debemos retirla. Este asi es otro modo de juzgar la ejecucion de la tecnica por lo que la redaccion debe se r a tu criterio de tus alcances. Digmos que es un bonsu par qe veas si ocntribuye de fomra positiva o negativa a tu flow de concentracion y asi way.
 
-pero consluione de esta
+En este checklis basta con que pongas dos partes de intgraicon con el sistema y con el proyecto pra esto es un bonus y no debes preocparte de no cumplilo porqeu mucha veces tan solo tenemos las tecnias sin actulizar o aun pero tenemos una tecnica aml aprenida y realemte vemos qe no aporta a la causa. por lo qe de eso se trta este checlista para demostar el valor en el grupo de cada tecnica.
 
 #### cuando seguimos un tutorial pasos a pasos de algo dueramos aprender
 
-tecinca de segir un tiorial
+Ahora veremos otra ventaja de tener los templates porque aveces tenemos tencias que tuilicazamos de forma espontaena entocne el mismo dia que empezaos temrianos incluso con minutos, mira el caso de empezar un tutorial y segir pasos pasos pues encontramos un glo que leimaos en interne que tien lo qe neceistamos, Ahora nuestro porblea esta en que a medida que vamosa haceidno el tutorial puede que pasen dias, En este caso para tener controlde nuestros tecncias debemos utlizar los label, los label como template vienene con planificando pero una vez usados debemos empezar el oento qe sabemos que vamos a termianr. PAra el caso de u tutorial puede llevarnos dias como horas, por eso es necesario poner empezar sea cualqueir acso y terminar. Entnces i tenemos una tarjte ya utilizada. Es decir no podemos empeazr algo qe ya terminanos. Sea entonces el caso que dura una hora y luego decidimos haer de neo el turoial por que par aprender.
 
-otro conslsiones
+Entones es el beneficio de los tempaltes porque tan solo volvemos a mepzar una nueva tarjeta y cuando llegue el omento poenemos empezando para que leugo termineos. En cualquiera de los casos es bueno recordar que a mas veces utlicemos la tencia mas datos tendremosde su ejecucion, asi si hicimos miles de tutorial pasoa a paso pornt tendremos tantos datos de eso que podrems detallar que tan buena en nuestra practidelra deliberada siguiendo tutoriales. Es por esta razon que las tencias sonactivas y se utlizas y se desechanencambio los templates on librerias de donde empezar na tecnia sin afectar nuestro glow de cotntracion.
 
 #### cuando fallamos en una tecnica hasta aprender
 
-otr atecnica para aprender
+El unico caso donde es posible que se doncfnda mucho dejando espcios libres que enrelidad son de investigacion, mira el caso de una conversacion hay unos minutos qe todos investigan algo en internet par seguir la charla lo mismo sucede cuando ejeutas tu practida deliberda aveces en el flow del momento nos olviddeamos de cambiar de tecniaacanque en al vida real lo hicimos. En el caso de que practiquemos una tecnica hasta aprenderla pude pasarnos que estemos tan sumidos en la ejecusion que cada vez que volvemos al tutorial para leer de neuvo seguimos ejecutano la tecnia de fallar hasta aprender. cuando enrealidad o que deemos ahacer es cambiar de tencia y caundo empezamos algo terminarlo y seguir con lo qe esabamos ahciendo
 
-conslusiones de esta tencia
+Por eso es impoarntae porner el contexto de la tecnica en una zona qe nos de libertad de tenerlo mas arog tiempo que noa fecte nuestro flow, en el acso de estar practicando asta aprender y luego volvemos a leer y luego a practicar y luego a prender podemos deajr las dos tecnicas en el contexto de qu estan siend ejecutas hasta que te salga la tecnica aprendiendose. ASi cuando pogas el label de emepzando en los dos no debes terminalo apenas termines de investigar. MAs bien cuando temrines de utilizar la tecnica en conjunto.
 
 #### cuando buscamos y filtramos links de internet que posiblemente ense;en algo
 
-wao queda ua tencia mas
+s
 
 consluioesde una tencica
 
