@@ -194,39 +194,37 @@ Traker el tiempo de esta forma es una opcion para daptarse mejor a las diferenes
 
 ## CONOCE TUS HABITOS REALES
 
-claro ahora tengo qe poner el libro
+Hasta el momento hemos hecho un reapso de lo que seria la parte de nuestros poryectos por l que queremos registrar nuestras practicas deliberdas de cada tecnica para que tengamos varios datos sobre la ejecucion, pero falta un dato esencial que seria el que da cuerpo al dia a dia y son tus habitos. Mira cuando tienes buenos habitos es posible ue des todo por el todo entonces cuando tienecces amlos habitos es logico qe estaras obtaculizado de algun modo de dar tu 100% pero qe sun habito bueno, ahora tenemo un bune hbaito como proyecto el yoga ashtanga que son una hora a la ma;ana y salud mental y de cuerpo pra el resto del dia, el benefecio costo es muy singular con este habito porque casi que es una necesidad. Bueno imporanteen nuestro dia tambien es la hora qe nos levantamos por algo de la constancia ver a que hora et levantas es un dato interesante de tener, entonces ya vemos como tenemos dos habitos que estan incorporados de algun modo a nuestro diario vivir osea al estado ee animo de ese dia. Sigamos luego muchos diran que tenemos habitos de limpieza tanto de tu hogar como personal entonces seguimos acumulando habitos qe no vamos a regsitar porqe son cosas qe hacemos sin pensar much. Luego muchos otros tendran ell habito de cocinar y si no lo tiene definitivamente tiene el habtio de desayunar, almorzar y cenar. Siendo asi otros habitos mas en la linea. Quisiera pensar que una salidita e trotar en la tarde con tu perro es normal y acasi cotidiano o algo parecido aunqusea ir a la tienda, de todos modos hay ya tines habitos que sin pensar casi todos compartidos. Lo imporante es identiifcar los habitos que crees que tiene un impacto en tu dia y volverlos objeto de registro.
+
+Este registro representa el nivel de tu habito, por ejemplo si uno se levanta tarde por acostarse tarde y de paso pierdes tu horario de hacer yoga y apenas te da para ducharte y cambairte y salir volando al trabajo. Son muchos los factores o datos que se registran en tu contra, tenemos la cancelacion de varios habitos por default. Lueog acumulamos necesiades en nuestro cuerpo vitales como la comida. Esto de alguna forma afecta a tu rendimiento por loque se traduce en ejecuciones mas lenta o incluso defectuosas. Para dar fe de esa teoria es que vamos a tomar nota de estos habitso que hemos identifiacado como que tienen el pontecial de afectar nuestro renidmiento.
 
 ### EN TU HK BOOK DEBES REPRESETAR TUS HABITOS
 
-esta es tu ultima forma de darle un template pero tambien de personalizar
+No existe mejor lugar de implmentacion que la agenda HK en la parte de los bullet jorunal, osea cada pagina por dia. Porqu en este lugar pues al ser nuestra hoja de control tiene sentido tener todo en un mismo lugar, es decir que al mismo tiempoo qe anotamos nuestros tiempos qe no son de practica deliberda podemos anotar los datos de nuestros habitos seleccionados. Como la pgina nos da libertad de esto es bueno saber que podemos ser muy flexibles de como dmoestrar estos datos siempre y cuando nosotros mismo entendamos lo que escribimos al final del dia. Al teenr sentido esta hoja de control debemos entrenar nuestra mente para anotar cada dato automaticamente desde la ma;ana, Para eso tengo unos consejos graficos.
+
+Primero qe nada esta mis ejercicos de yoga y mi desperrtar, etnonces apenas despiertoy me pongo listo en el mat para empezar escribo en mi agnda rapidamente en un cuadrito la hora, esto es un inciador de mi hoaj de mi dia y asi caudno temrino los ejercios termino de anotar en el caudrito de alado el nuemero de saludos al sol qe hice. Este tiene mas sentido a medida qe voy cumplimiendo mi dia. porque es como un puntaje de mi dia si cumplo mis habitos de manera optimo puedo ir demostrandolo en mi agenda gracias a los datos, puesto qe un dato de 0 no es lo mismo qe uno de 108. en el caso de los saludos, casi inmediataemetn tenemos el edsayuno, la limpieza. Y luego esta el vieja en bus a nuestro trabajo, entonces podemos agregar ahora nuestro tiempo de no practa deliberada, y cuando llegamos al trabajo empezamos con el toggl porque ya no hay ncesidad de ergistar en l agenda, luego si tenemos otro habito como el de correr trotatr o un deporte difernte cada dia entonece anotas un dato, incluso decir que ganas te o perdiste o te divertiste es un dato, Yo trabajo de noche asi qe noa naoto nada eni agenda pero capaz queiras anotar inlcluso tu viad personal o zacapaz acabe tu dia en  la agenda y no la toques mas.
 
 #### esto significa idintificar las acciones qe se pueden tomar datos
 
-aca vien algo imporante
+Eso quiere decir que si identificaste tus habtios es imporante que definas sus datos a registrar, como te digo un dato positivo puede ser un sentimiento o muhcas veces un emoji este dato no tiene restricciones es lo que vos decidadeas, itenta que los datos puedan ser puestos en una escala, en el caso de sentimiento empezando por n sentimiento negativo hasta uno positivo pasadno por unn espectrum intermedio, pero tambien procura que cada datos comparta escalas con otros, en algun razonamiento logico. si utlizas emjis qe todos en cada lado signifiquen lo mismo. Pero al mismo tiempo es totalmente a tu eleccion.
 
-conslisiones de este
+Las consideraciones de este dato se aplican en las estadisticas con un factor que tiene causalidad en nuestras practicas deliberdas por loque es recomendable que pueda entenderse logicamente para qe la matematica tengas etnido pero al mismo tiempo es tan amplio la gama de posibilidades que no tengas miedo a escoger escalas unicas para tu caso. al final de cuentas es para que tomes decisiones basadas en lo que sintes y peinsas vos solo qe traducido a numeros y escalas.
 
 #### ademas significa tener la obligacion de hacerlos ilcuyendo no hacerlo
 
-ibne otro obligancion
+Tamneon estos datos de habitos son un trigger par empezar nuestro dia y graifcamente son un trigger pra ocmenrazar nuestra genda dandole un orden y asi repetitamnte se van homginizanodnuetras paginas en un solo formato que es libre pero qe escogemos tener porque es asi automatizando nuestro metodolig aHK. Por ejemplo al poner lo datos de que comiste el dia de hoy puedes hacr un dibujo de la comida y asi cada dia capz tu dibujo es tan feo que solo vos lo etniendas pero ya es un dato expresaode un a forma creativa.
 
-consluones de este
-
-#### es parecido a un x cada dia pero aca lo iportante es identificarlos
-
-biene un sdia parecido cada dia
-
-cms;iospmes de ;p qe
+Esatps [eque;os desafios de la mente son entretenidos y admas crean un anticipacion qe hae qe el habito de utilizar tua genda se va acentando mas en tu persona. Ademas que cada vez puedes crear nueavas formas de tomar datos que te sean mas eficientes, lelgando a ser el caso de solo techener que poner un solo numero a la do de una incial. Es de esta anera que debes pensar or tu ceunta como se acopla mejor a tu vida utilza runa agenda pero de qudebes poner tu datos debes hacerlo. Que pasa si te olvidas anotar?
 
 #### con el fin de modificarlo a nuestro gusto
 
-tenica de fin de modicar
+Los unicos habitos que olvidamos registrar son los malos. Y no es nuestro obejtivo, nos enfocamos en los que si nos hacen sentir qe cumplimos con algo en el sentido de ser moraliazdores pra emepzar el dia nos va dando pauas de que tan bien vanuestro dia, Entonces olvidarse varias veces de habito es porque no quiere ser registrado. En otros casos sonde fallas un habito un dia entonces el dato que dejes debe ser en la escala de muy malo. Esto etnonces no es olvidarse de anotar es solo no ejecutar tu ahbito bien ese dia. Si tienes un habito qe no deasaes anotar eneuntrale otro angulo, uno mas positivo, como un 0 y un 1 si cumpliste o no respectivamente. Si intenta dejar de fumar aunque sea hasta cierta hora enteonces puesdes poner tu dato como cumpli hasta cierta hora y sigue siendo positivo valido y representa qu el dia que no cumplas no afecta tu vida ni tu moral pero si logras anotarlo.
 
-conslusiones rapidas de esto como idea
+Existe siempre la posibilidad de que debas cambiar antes de haerte mas bolas con el problema de tu habito. Ver estas modificanoes como trampas estaria exageramente descabellado. Debemos mas bien senturnios obligados a anotar buenos datos sabianedo qe en caulquier mometo puede venir una racha de malos datos, pero nunca dejar de anotar porqeu no se trata de demostar a nadie sino de anotar con claridad las cuasas de tu practica
 
-consliosnes de tener habitos reales
+Realemte tener una agenda ya es una habtio real bueno por lo que anotar los datos de tus otros habitos esta en un nivel de tratar tu vida ceintificamente, es por eso que queremos tener un cauderno ocn tus activiades qeu realacionanda mas tu productividad, Y la agenda juega un papel de mueestra de control porque deaj los vacios que deja togll. Por este motivo tner tu agenda registrando los datos de tus habitos ya es una buena manera de ver en que stamos fallando porque un dia podemo planificar tener los mejores habitso erro a la hora de la hora es cuando anotamos un numero es neustra agenda representado nuestra ejecucion del diske habtio gnial.
 
-conslusones de tu libro que se llama HK book
+Con esto tu libro queda completo y solo neceista modificarlo a tus necesidaes porque mas que esto no va hacer, tomart nota de los habitos, registar tus tiempos de no practoica deliebrada e nicluso tener un planficador semanal para cumplor con tus deeres organizao asi de forma visual y en cualquier moemtno sin necesidad de baterias. Este aagenda creada de tus mano se vuelve la parte crucial de nuestrod dai porque debepnde lo quea notemos aca que podremos actulizar nuestro google caelnar.
 
 ## MODIFICA TU CALENDAR TASK
 
