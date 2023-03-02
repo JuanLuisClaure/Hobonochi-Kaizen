@@ -174,23 +174,23 @@ Veamos pues hata ahora tenemos una agenda y lo demas sdigital y para nuestro tog
 
 Por eso aveces un cronometro no se ve tan lindo en tu dia a dia pero imaginate un doctor que entra a una operacion y emepeiza tomar nota de sus accione a travez de cornometro, el no anota als tecnicas solo hace click por que en su cabeza el esta ejecutando su practica deliberada y solo quiere ver sus relustados. Es el perfccionamiento en persona. De igual manera un profesor que ense;a una case y va poneindo click por cada accion que hace en suexplicacion para ego tener cunta de que parte tardo mas que parte intereso mas co n datos por ifrencia, ademas que una descripcion puede y deb crearse atravez de estos toamdas de tiempo a pasar a tomadnotas a pasr a agengda. ahciedo de la reflexion la segunda parte de esta tecnica pues una vez realizada al accion tendremos tiempo para recordar y si tenemos algo qe a;adir como algo qe descubrimos un consjoe para nuestro guturo que lea nuestra tenciaa y asi way pero lo imporante es que de verdad habra un lugar donde podes describir tu tecnica de ese y es trello y se cambia cada dia no tema s en eso ademasde tener lugar para atos fijos. no aedemas en toggle debes poner esta descripcion solo el numero de las tecnias que usas, ya no existe cecklist, la decipcion si la voya dejar porque es bueno tambien dejar nota de todo el conjunto.
 
-a
+De todos modos poniendonos serios estamos decifrando la rutina de la practica deliberda, entonces podemos decir qe edescubrimos qe se divdiden en dos categorios las qe una tecnica sola requiere de muchos pasos o cuando muchas tecnicas de un solo paso hacen una accion. En el caso de la programacion podemos decir que crear un login es una tecnica con mucchos pasos y en la fuerza fisica podemos decir que un saludo al sol es una ccion del conjunto de tecnicas que son  las poses. Esto nos ayuda a identificar si nuestras tenicas que estamos aplicando debemos trackearlas con toggl sin interrumpir unestro flow o con un cronometro para tambien no nitemrrumpir el flow. Esta suele suceder porque queermos abarcar el mayor de las practicas deliberdas sin descartar ninguna por temas tecnicos por lo que la solucion mas sumple es la primera enaplicarse. Veamos entonces como trakear nuestros ejercicos.
 
 #### es como el ejercicio es mejor cornometrar y luego subir el total
 
-primero esta en tener un cronometro
+Un ejercicio generalmente es repetitivo por lo que ya tenemos un anclaje para decir esto es donde dare click a vuelta en el crononometro. Y se evidencia en casi todos los ejercios, miremos priemro los ejerccios de fuerza como las pesas o sentadillas podemos controlar midiendo el tiempo de repeticion en repeticion. Entonces una serie cronometramos ponemos vuelta y cuando dejemos de decansra poneos vuelta de nuevo. Luego podemos ir coincididiendod los tiempos. Otro ejemplo seria el ptracticar mi tiro de tennis, Son varias tecncias desde pararse y estirar con fuerza la nao. diferetnes tencias qe trabajmos en conjunto en un tiempo qe no podes trackearlas individualemnte entonces podemos agarrar el cronometro y inciar con el entrenamiento y ahora hacer click en vuelta despues de cada tito, Entonces tnrdras los timepos de toda tu tecnicas en el conjunto en promedio.
 
-consluiones
+Es facil olvidarse de que ver una persona con cronometro es porque esta tomando datos precisos de su actividad, genralmente se ve a las personas cornometrando a otras pero en este caso somos nosotros mismos a osotros. por lo eq parece aun mas raro, pero eso se trata de que a mas excepcional no se  puede negar que mas chances de podes ser muy bueno en algo. Por lo que trackear tu tiempo con cronomoetro no solo es excepcinal sino loigco. Vas a ver que cada dato te va ayudar a tomar decisiones y ver tu progresom no es lo mismo 10 repeticiones en una hora qe ver como en el timepo subiste a 20 repeticiones en una hora. Eso gracias a los datos que se infieren tdo por tener las tecnicas orgnizadas y manejar un cronometro.
 
 #### pero sin perder los datos entonces pueden ir en describcion
 
-luego tener este importe
+Esta bien tener los planes de hacerlo pero debes entender que no todos los dias se puede y es ahi donde trackear tu tiempo te ayuda a ubicar estos espacion sin uso. Por eso es bueno describir donde estas en cada tecnica como redorcatorio por si buelvo un dia despues de muchotiempo y necesit refrescarme la memoria. Estos son datos que te pueden ayudar a ver donde esta el error de tu tecnica. Por eso honestamente sin copiar de nignun lafo explica que son para ti cada tecnica cuando las esta usando. Puedes describirlas al igaul de siempre solo recuerda que cuando son un conjunto no tiene checklist por lo es aun mas imorante la descripcion
 
-cosnisones de este
+Ademas de la descricion cuando se trata de un conjunto de tencias debes agregar cada uno elos numero a manera que no se pierdan los datos, esta actulizacion depes hacerla en toglg antes de que acabe el dia par que quede registrada y todo depende de dnde tuviste anotado tus tiempos, estas copias son tu respaldo de que ciieras hoy tus tecnicas. Por eso es que antes de acabar el dia ti prioridad es actuliar manualente estas tecnicas. Las anotaciones en el moento son imporantes
 
-consiosnes de aveces sucede
+Hay algunos cornonometros para celulares que son muy bueno posr que gurdas el registro por un momento. entonce suna vez termian tu accion debes buscar un papel donde anotar. Este proceso pasa leugo a tu agenda y porfin al toggl por lo que en cada uno de estas copias son un recuerdo de que debes actulzar tu toggl por que de tu cornonomretro nov  saltar a tu toggl atuotmaticaetme.
 
-conslusiones de trackeel tiempo diferente
+Traker el tiempo de esta forma es una opcion para daptarse mejor a las diferenes habilidade sque ha ene el mndo. Puede que te guste mas este formato por lo qe pedes buscar mas de estas habilidas conjuntas de tecnicas pero no tiene sentido porque solo debes entender que camabia sutilmente la fomra de anotar lo que es dificil es deintificar esas tencias antes de que sea mu tarde o te interrumpa el flow de cocentracion.
 
 ## CONOCE TUS HABITOS REALES
 
