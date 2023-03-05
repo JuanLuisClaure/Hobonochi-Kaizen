@@ -238,67 +238,63 @@ Esta parte sin mentirte es la parte mas dificil porque es complicado hablar con 
 
 #### lo qe no puedas dejar de hacer con lo qe debes hacer e tu rutina
 
-Lo que no pudes dejar de hacer como un mal habtio que quieres dejar de hacerlo es una buena manera de tener en cuenta. no siempre es el caso y aveces nuestras ganas de dejarl de hacrlo son tan fugacesque no vale la pena agregarlo. Otro ejemplo de habitos que no debmos 
+Lo que no pudes dejar de hacer como un mal habtio que quieres dejar de hacerlo es una buena manera de tener en cuenta. no siempre es el caso y aveces nuestras ganas de dejarl de hacrlo son tan fugacesque no vale la pena agregarlo. Otro ejemplo de habitos que no debmos seria como una habito muy general como ba;arse porque involucra muchos pasos y no todos son los qe quieren medir en conjunto, mas bien algo como cepillarse los dientes suena mas a una hbaito individual. Otros habitos como de relaciones personales deben ser excluidas porque no es una constancia en todo caso podrias decidir ser mas amable con todos como un habito de todos los dias pero aun asi es poco evidente saber que es ser amable. Este tipo de habitos es mejor escluirlos y enfocarse en habitos que afecten el dia entero.
 
-conslisones de este
+Lo primordial al escoger estos habitos que quermos trackear es qe seean un esqueleto de tu dia a dia y afecten ed alguna forma de practica deliberada. Los tres tipos de habitos entre positivos, negativos y en construccion tienden a ser los que mas importan. No digo qe cepillarse los dientes sea malo solo qe no tiene una fuerete correleacion con las practicas deliberdas.
 
 #### Capaz lo mas imporatnte es qe veas como no la cumples
 
-aca bien algo de porque
+Por eso capaz despues de habllar tus habitos positivos y negativos enrelaidad debas enfocarte en buscar esso habitos qe no haces y deberias contando como cada dia qe no lo haces una perdida en la portunidad de mejorar nuestra practica deliberda. Son estos habitos los que mas infomracion te dan sobre la correlacion de una vida saludable y equilibrada con una practica deliberda exitosa. En ese caso son estos habtios que no realizamos los qe deberiamos anotar desde el comienzo puesto qe veremos como al no realizalo hasta realizarlo dejando una trao de evidencia que sugiere si fue mejor o no.
 
-onslisones de este
+Asi siendo sinceros hay muchos habitos que mejorarias nuestra salud por ende nuestra porudctiviad. tambien muchos otros que no hacemos qe nos harian feliz como honnies que dejamos de hacer o siempre desaemos intentar y que impactan en un mejor humor lo cual repercute en mejore practicas deliberdas. este circulo beneficioso que todos buscamos debe ser el objetivo de nuestro dias, como preguntandonos cuantas dias que no comemos saludable caundo debi empezar hace a;os, esta es la mejor pregunta qe te podes hacer antes de decidir un ahbito, que deberias estar aciedno hace tiempo.
 
 #### sue;a con lo qe necesitas sin imposibles pero exigiendo
 
-aca biene l bueno
+Es importante que mantengas el nivel de tus habitos en tu nivel de ejecucion, para los habitos mas dificil como vumos en el yogapodemos empezar de apoco e ir graduando el nivel, la frustaracion es parte ede aprender pero saber darse metas realistas es parte imporante igual de no frustrarse mucho.
 
-conslsiones de este
+construye habitos qe de apoco creen un habito mas grande, no hay qe presionarse como en el entrenamiento de karate kid avces solo limpiar de una forma nueva nos abre la mente a nuevas ideas.
 
-conslisones de algo imporante
+Estos son los habitos imporantes qeu debemos ir creando pero sin olvidarnos de lo bueno habitos qe tenemos y capaz para ver qe tanto nos afecta los habitos negativos. Este no es una mision de autioaida sino una forma de correlacionar datos, entre habtios y practida deliberda y eso estamos haciendo, creando un conxtexo para nuestras practicas deliberads y asi todas esten enmarcads en lo qe nuestro espiritu puede hcaer pero dando ese margen donde si podemos seguir mejorando.Entonces es solo logica enceontrar estos habitos qe deseas, puesto qe lo necesitas en el fondo de tu corzon sabes qe deberias estar haciendolo.
 
 ### VISUALIZANDO EN CALENDAR CON TASK
 
-esto es imporante asi qe sigue como obligacion
+En la app de task vamos a escriibir estos habitos. Lo importante es darse ceunta qe tenemos la semana como unidad es decir qe vamos a poner nuestros habitos para una semana, no es tarea facil pero vamos a hacer con lo mas imporante ademas de ir mejorando con el tiempo hallando esos errores que solo se encuentran haciendo funcuinar la metodologia es por eso que ahora si abrimos la app y no tenemos nada entonces podemos empezar desde cero, Cada habito aveces no require hacerce cada dia de la semana pero capaz 4 o 3 veces minimo. Empecemos por ahi. TAmbien podemos empezar sabeidno qe hay habitos de toso los dias es el mismo como lenvantarse en un horairo. Luego tenemos los habitos qe nunca hacemos pero vamoss a empezar a tracejaer como no los haemos, eso tambien pueden tener su dia qe tal un hobby como cocinar unas dos veces a la semana y otras dos veces jugar golf. Asi vamos a ir dejando mas habitos por dia. Podemos decir qe uno por semana. En el caso de tener nombres muy largos se complica. Ese es otro tema que vamos a ir solucionando puesto que al ser un codigo para nosoros capaz podamos abreviarlos pero lo que mejor me ha funcionado es utilizar emohis si encuentro uno en forma de cocinero ya se que es cocina. Asi tengo una lista de habitos aunque todavia no estoy pensando en que dia va en que dia. Solo escribo nombres de todos los habitos.
 
 #### claro no te dije qe se iba hacer solo pero es imorante
 
-otro falma de hacer un paso
+Tambien puedes ahcer una descripcion donde puesde poner los datos del dia cada vez que cynokas ty rutina HK para poder regustrar todo en el calendario. En estos casos donde escoges la descripcion en el moento ede actulizar deberas entrar a esta tera poner editar y editar la descripcon con el dato. Si ese dia no cumpliste la terea la descripcon quedara vacia diceindo asi qe el habito puede estar tachado pero no ahy datos que dejar cpor qlo que no ayuda en nada, De la misma manera cuando no quieres utilizar la descripcion puedes utilizar el mismo nombre para dejar el adato, el cual es lo mas recomendable.
 
-consliosnesde este
+Asi que cuando veas que tengas varios habitos intenta qeu qe sean decifrables a primera viste e incluso puedes poner un numero pra manternlos en un orden de ejecucion, de tso modos una simple espacio u un guion peude seprear el titulo osea el nobre de tu dato, Luego el codgio vera que sea todo correcto en los datos. Deigual manera es bueno qe anotes en otros lado el significado de cada habito poque puede servirnos luego. para decifrar mejor. Por eso cada nombre es imporante que se entienda. Emoji, inicuales y espacio para el dato que actulices cada dia en tu turina hk.
 
 #### Coloca tu lista en los task por dia de las semna y repitelos
 
-totro para so 2
+Ahora que tienes las lista crea 7 nuevas listas donde puedas ponerle el nombre de cada dia y emepiza el trabajo de pensar como el equqeleto de tu dia. mra cada habito es un ckecpoint qe debes cumplir y si algun dia de propones hacer ejerciocios que edas difereste habitos referidos al ejercicio sigue siendo un solo habito. Por eso empieza a pnificar. empecemos por el facil. Hora de deseprtar. Que tal pones en la lista y opciones copiaor a las siguiente sliste, en este caso pues deberia ser todos los dias porque es algo que asi funciona marcar tu dato de despertar. En cada lista que copies esta habito debes agregarle qe se repita el task por un tiempo qe planificaste uqiliar el HK.
 
-consluosnes de paso 2
+Al ginal la prinmer list se borrara porque solo servia de contenedor hasta que toda tu lista quede ordenada en las diferrtes listas de cada dia, que corresponde a tu esuqleto de ese dia qe sin saber qe vas hacer ya tiene un template  a seguir por qe son tus habitos qe estas registrando. De ese modo tiene que repetir con cautel que todo este en orden porque lo ideal es ordenar una vez y olvidarse hasta la siguiene vez.
 
 #### toma tiempos q sabes qe vas a cumplir para dar margen a modificar
 
-vien algo mas qe bine
+La sguiiente vez puede ser cuando tengas que empezar otro emrodo HK ya qe se temrinaron tus hojas o otro evento. Geralmente es una panigicacion exahustiva si te gusta 4 veces al a;o esta bine o una sola. Pero eso queire decir que mientras no estes seguro debes darte margen par poder cambiar despues de un tiempo prudente de intar una organizacion,Esto debe estar sincronizado con le hecho de tu agenda y sus hojas y asi con toda lal metodologia.
 
-conslsioes de este paso
+Los nombres en especial vana  cambiar a travez del tiempo y esta bien por eso es bueno deajr un registro de esto en una cuaderno digital porq e al final esto es parte de la metodologia y de algo puede serbur despues.
 
-conslusones de vialauazilcando en calendario task
+Con los task en el calendario ya tenmos todo el set uo configurado porque como dihimos este es un paso imporante en que debemos pensar a un largo lpazo por lo que es cierto qe solo ientando se aprende donde estan los errore pero aveces hay qe tomarse un dia pra visualizar bien las opcines a lo que digo es qe esta parte de los task al ser lo unico de mas largo plazo qe tenemos aprte de la genda debe estar calculada con cuidado y nodebe ser algo al eq debamos volver serguido.
 
 ### UNA NUEVA RUTINA TACHEAR TUS LOGROS Y ANOTRAR
 
-qie esto es las nueva rutina en tus dias dia aidia
+Ahora ya tienes tus metodologia completa para empezar, por un lado vamos a seguir estudiando como se aplpica en la vida rela pero por el ladode habitos de dejar todo lissto para qe no aefecte el flow ademas de los nombre identiifcadores. Esto quisere decir qe tenemos larutnia incorpoarada en nuestra mentem es decir que ahora tienes la facultad de decidir que todo tu dia se resuma en tu calendario. Al final sin necsidad de hacer mas qe tu rutina tu metodologia empezara a captar los datos. es facil con toggl incluso cuando teenmos qe agregar un tiempo a mano pero en el caso de los habitos es totalemnte solo escribir el datoe n tu agenda y a mediad qe veas qe siempre lo ahces el habito en si viene agarrado de su aegnda para anotar, esta rutnida se vera en la noche cuando debas agregar los datos. Pues es mas facil solo copiar qe pensar y tratarse de acrodar. De ahi qe esta rutina basada en tus habitos no es algo qe debas trackear el tiempo en si sino su ejecucion y su resultado por lo qe es mas facil cuando lo escribes en ese momento. TAmbien sirve escribir directo en el calendario y esta bien pero la agenda tiene ese nose que que lo vuelve mas esperitual a todo el asunto ademas qe seindo realista un calendario digital nunca sera tan intuitivo como una agenda. Asi qe anotar y trackear tus logros diarios es tu nueva rutnia.
 
-#### cada dia escribis un cometario con el dato esto ira como dato de tu dia
-
-poner en el calendario algo
-
-consliosnes de como poner
+Cada dia escribes tu ejecucion a penas la cumples en tu agenda HK lo cual te manda a tener tu agenda ecrca entonces para qe necesias un celular. Llevar caudernor es mas simple donde sea. Igual tenemos nuestro anotar mas chico para casos extremos pero nnca dejamos de dejar el dato en ese mismo momento fresco y sin necesidad de juzgarnos porque para qe vamos a mentir si lo q queremos saber es el aprocechamiento de nuestras horas en el dia.
 
 #### cada dia techeas lo qe cumplist inslcu si no cumpliste
 
-algo mas sencillo pero acordate
+Por eso nada mas sencillo qe escribir un dato a poco qe se va realizando sin dejar espacio para qe tengamos qe utliazr la emmoria, ahorramos flow de concentracion para gastar en otra practica deliberada. Ademas como vimos muchos de los habitos son dificiles de realizar para nosotros entonces anotar esto como algo qe nos paso es un remodimiento incluso aunqe decidamos dejar de hacerlo el task esta repetido compromeidendonos a tachar durante el tiempo qe qedamos. Es asi qe mejor es solo tachar el task sin dato.
 
-conslisoes de esto facl
+Osea ponerle un dato mentira seria un crimen prqe esta aelantando a tus datosa  tu realidad. y si digamos gastas esa energia en tener un registro de actividades perfecto sin relizarlo sera una mentira diaria qe no podras soportar, Es tan imporante los habitos qe es imposible escparde ellos. Mejor es siempre tachar el task sin dato para dejar claro qe falllamos pero no nos rendimos, pues quien quiere sentir culpa autoinfligida.
 
-consluones de una nueva rutuina de tachar
+Capaz tenga un efecto mas psicologico en la persona tachar una rutina de habitos, es como un robot qe tien una rutina pra cheack sus sistemas. Apernde qe si cejckea cada dia no cuetta tanto y ademas qe enceuntrs errore sin qe se acumules lo qe es fenomenal en el sentido de saber qe nos psa, porque esos datos qe casa el robot no los tenemos nosotros. Entonces que ironioc sber el resultado de algo sin vida y nosotros qe somos fuente de datos no etende hasta qe es muy tarde, los sintomas estan en los datos. por eso tachear y escribir tus habitso realizados t no relizados deja cosntacia al finall de tu vida en un aspecto intimo.
 
-conslisones de todo el capito de modifica tu goole calendar task
+Con nuesro nuevoc aelndar mas task tenemos la combinancion perfecta con la aegnda HK, es una integrcion de las mas genial porqe en total del dai se acumularan 10 min entre anotar y registrar en el calendario. Con esta configuracion cada noche antes de domrir antes de que acabe el dia solo debes abrir tua agenda y anotar tus habitos con datos de tal manera qe no te cueste pensar ni afecte tu flow y atmpoco qe un dia fallado sea muy malo ni nada de eso, siempre qudaa utomatizas mas cosas. con el tiempocapaz el calendario tenga mas funciones, Un ejemplo es qe no habalosmed la hora de ejecucion de cada habito. Es un dato peculiar porqe es parte de las anotacion de la agen hk donde nose aplican practicas deliberdas pero al mismo tiempo es al pedo escribirla porqeu loqe interes es el datode la habito y no su tiempde ejecucion aunque el mis calendario nos ofrce la opcion de hacerlo, en si es un dato mas qe daria mas inforamicon sobre tu dia pero no es necesario porque nno he encontrando uan forma qen qe eso reduzca el tiempode interrupcion del flow. Esto hace que sea mas factible dejarlo como un evento del dia y mas bien en el caso anotar el incio y el final en el titulo y en la descripcion ya poner el dato. De todos modos esto pede llevar mas tiempo y como confuracion incial vamosa tomar estos paraemtros y luegod e apliacrlo en la vida real veremos qe debemos modificar y si tenemos algun truco para seguir haceindo el uso de la metodologia HK mas fluida isn interrumpir nuestra ejecucionde practiacas deliberas ni unestro flow de concentraicon.
 
 ---
 
